@@ -98,7 +98,7 @@
         "wantPromoCode": "żQuieres un código promocional?", 
         "stayTuned": "ˇManténganse al tanto!", 
         "findYourResults": "Encuentra sus resultados bajo el menú desplegable Insights en la parte superior de la página.", 
-        "welcomeToHomepage": "Bienvenido a la página de <strong> VitaNavis & trade; </ strong>! Aquí encontrará herramientas y conocimientos para ayudarle a alcanzar sus metas en la vida - personal, educativo y profesional. Vamos a estar en contacto con nuevos recursos para usted! Si usted tiene un comentario para nosotros, envíanos una línea en <a href=mailto:feedback@vitanavis.com\\'> feedback@vitanavis.com </a> \\'."
+        "welcomeToHomepage": "Bienvenido a la página de <strong> VitaNavis&trade; </ strong>! Aquí encontrará herramientas y conocimientos para ayudarle a alcanzar sus metas en la vida - personal, educativo y profesional. Vamos a estar en contacto con nuevos recursos para usted! Si usted tiene un comentario para nosotros, envíanos una línea en <a href=\"mailto:feedback@vitanavis.com\"> feedback@vitanavis.com </a>."
     }, 
     "wrongPromoCode": "código promocional incorrecto", 
     "adminPanel": {
@@ -116,7 +116,7 @@
         "institution": {
             "headline": "instituciones"
         }, 
-        "highlightColorTitle": "Establece el color de <h1>, <h2>, <h3>, todos los botones grandes \\'(por ejemplo Entrar", 
+        "highlightColorTitle": "Establece el color de <h1>, <h2>, <h3>, todos los botones grandes '(por ejemplo Entrar",
         "buttonTextColorTitle": "Esto ajusta el color del texto en los botones (por ejemplo Entrar Únete botones).", 
         "backgroundImageTitle": "imagen de fondo de atención al cliente está representada en todas las páginas", 
         "footerTextColorTitle": "Esto ajusta el color del texto de pie de página en todas las páginas.", 
@@ -254,11 +254,12 @@
         }, 
         "promocode": {
             "exist": "Código de promoción no válida.", 
-            "able": "No se puede aplicar código de promoción para el usuario"
+            "able": "No se puede aplicar código de promoción para el usuario",
+            "promocodeCharacter": "Código de promoción no válida."
         }, 
         "hasChildGroups": "No se puede eliminar este grupo, ya que ha anidado grupos).", 
         "zipCode": {
-            "zipCodeFormat": "Sólo letras, números, - \\'. Ejemplo: 12345-6789\\'"
+            "zipCodeFormat": "Sólo letras, números, \"-\". Ejemplo: 12345-6789"
         }, 
         "answers": {
             "full": "No ha respondido a todas las preguntas"
@@ -362,14 +363,15 @@
             "MAXLENGTH": "Demasiado largo. Longitud máxima de la contraseńa debe ser de 30."
         }, 
         "emailIsRequired": "correo electronico es requerido", 
-        "messageBodyIsRequired": "Se requiere Cuerpo del mensaje"
+        "messageBodyIsRequired": "Se requiere Cuerpo del mensaje",
+        "invalidPromoCode": "Código de promoción no válida."
     }, 
     "youAreNotAuthorizedPleaseLogInOne": "Por favor, pulse el", 
     "assessments": "evaluaciones", 
     "somethingHappensWrong": "Algo salió mal. Por favor, inténtelo de nuevo.", 
     "login": {
-        "subTitleThree": "<Strong> VitaNavis & trade; </ strong> es un producto de los laboratorios de innovación CPP. Desde 1956, el CPP ha sido un líder en la personalidad y es conocido por la ciencia y la investigación detrás de sus evaluaciones de personalidad del patrón oro. Buscamos promover la misión de ayudar a la gente a ser mejor de CPP \\'mediante la utilización de tecnología de vanguardia y la ciencia de datos para mejorar el conocimiento y la experiencia que ofrecemos a la gente y sus organizaciones.\\'", 
-        "subTitleOne": "<P> Bienvenido a <strong> VitaNavis & trade; </ strong>, creado por Innovaciones CPP Labs, uno de los mayores expertos mundiales en la ciencia de la personalidad. El significado de <strong> VitaNavis </ strong> es la nave vida \\'<strong> VitaNavis & trade;. </ Strong> combina validados científicamente y evaluaciones de personalidad fiables con la última ciencia del comportamiento para recomendar las acciones de CPP que se pueden tomar para ayudar a navegar por una camino hacia sus metas educativas y profesionales </ p> <p> el primer paso en el viaje es tomar nuestra versión simplificada del fuerte interés Inventario & registro.;", 
+        "subTitleThree": "<strong> VitaNavis&trade; </strong> es un producto de los laboratorios de innovación CPP. Desde 1956, el CPP ha sido un líder en la personalidad y es conocido por la ciencia y la investigación detrás de sus evaluaciones de personalidad del patrón oro. Buscamos promover la misión de ayudar a la gente a ser mejor de CPP mediante la utilización de tecnología de vanguardia y la ciencia de datos para mejorar el conocimiento y la experiencia que ofrecemos a la gente y sus organizaciones.",
+        "subTitleOne": "<P> Bienvenido a <strong> VitaNavis&trade; </strong>, creado por Innovaciones CPP Labs, uno de los mayores expertos mundiales en la ciencia de la personalidad. El significado de <strong> VitaNavis </ strong> es la nave vida <strong> VitaNavis&trade;. </strong> combina validados científicamente y evaluaciones de personalidad fiables con la última ciencia del comportamiento para recomendar las acciones de CPP que se pueden tomar para ayudar a navegar por una camino hacia sus metas educativas y profesionales </ p> <p> el primer paso en el viaje es tomar nuestra versión simplificada del fuerte interés Inventario & registro.;",
         "signUpnBtn": "Regístrate", 
         "loginBtn": "Iniciar sesión", 
         "title": "Obtenemos un paso más cerca!"

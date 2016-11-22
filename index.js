@@ -20,12 +20,19 @@ deepForEach(enUS, function (value, prop, subject, path) {
 		if (temporaryValue){	//for only there are no spanish translations;
 			return;
 		}
+
 		result.push([
 			path.split('.').join('$'),
 			value,
 			temporaryValue || ''
 		]);
-	} catch(e){}
+	} catch(e){
+		result.push([
+			path.split('.').join('$'),
+			value,
+			temporaryValue || ''
+		]);
+	}
 });
 
 var buffer = xlsx.build([{name: "language-export", data: result}]);
