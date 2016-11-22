@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/koriUA/english-spanish-node.js#readme",
   "dependencies": {
+    "deep-for-each": "^1.0.5",
     "node-xlsx": "^0.7.4"
   }
 }
