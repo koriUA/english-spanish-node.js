@@ -1,0 +1,717 @@
+{
+  "serverErrors": {
+    "appVersionOutdated": "Your page is outdated. The page will refresh automatically after few seconds.",
+    "login": {
+      "incorect": "Incorrect login or password",
+      "approved": "Check your email to validate your account",
+      "consistencyData": "Something went wrong",
+      "login": "Something went wrong. Please try again."
+    },
+    "personEmail": {
+      "exist": "User does not exist",
+      "uniqueMail": "Email is already taken",
+      "unique": "Email is already taken",
+      "type": "Not a valid email address",
+      "maxLength": "Maximum allowed length of email is 60 characters",
+      "email": "Not a valid email address"
+    },
+    "promocode": {
+      "able": "Cannot apply Promo Code to user",
+      "exist": "Invalid Promo Code.",
+      "promocodeCharacter": "Invalid Promo Code."
+    },
+    "assessment": {
+      "available": "Assessment is not available",
+      "answer": "Answers are not set"
+    },
+    "assessmentId": {
+      "required": "Assessment should be chosen"
+    },
+    "answers": {
+      "full": "You didn't answer all questions"
+    },
+    "feedback": {
+      "required": "recordFeedback is not found"
+    },
+    "email": {
+      "email": "Not a valid email address"
+    },
+    "personFirstName": {
+      "alphaSpace": "Should be only letters"
+    },
+    "personLastName": {
+      "alphaSpace": "Should be only letters"
+    },
+    "0": {
+      "undefined": "Something went wrong. Please try again."
+    },
+    "import": {
+      "emptyData": "File is empty or has empty rows. Please check your file",
+      "unique": "Email is already taken",
+      "validation": "Validation errors:",
+      "personEmail": "Email:",
+      "email": "Not a valid email address",
+      "required": "Field is required",
+      "in": "Type is not correct",
+      "transform": "Data in file has incorrect format",
+      "readFile": "Count Sheet is not equal 1",
+      "string": "Something went wrong. Please try again.",
+      "emailCustom": "Not a valid email address",
+      "groupName": {
+        "unique": "groupName is not unique"
+      }
+    },
+    "personPassword": {
+      "personPassswordOld": "Password is not correct"
+    },
+    "groupAlias": {
+      "uniqueGroupAlias": "Group Alias is not unique",
+      "unique": "Group Alias is not unique",
+      "readonly": "This group's alias can't be changed",
+      "regex": "Only letters, numbers, and these symbols: - _ "
+    },
+    "groupType": {
+      "in": "Type is not correct"
+    },
+    "groupDesc": {
+      "specialStringOrient": "You cannot set symbol ; after \" "
+    },
+    "groupName": {
+      "specialStringOrient": "You cannot set symbol ; after \" ",
+      "uniqueGroupName": "Group Name is not unique",
+      "unique": "Group Name is not unique",
+      "readonly": "This group's name can't be changed."
+    },
+    "street2": {
+      "regex": "Only letters, numbers, special symbol: - , ",
+      "streetType": "Should contain letters, number, and special symbol:  - , ' # "
+    },
+    "country": {
+      "countryStandart": "Country does not exist on standart list"
+    },
+    "city": {
+      "regex": "Only letters, numbers, and these symbols: - , ' "
+    },
+    "regex": {
+      "regex": "Only letters, numbers,  and these symbols: - , ' "
+    },
+    "state": {
+      "regex": "Only letters, numbers,  and these symbols: - , ' "
+    },
+    "zipCode": {
+      "zipCodeFormat": "Only letters, numbers, \"-\". Example: 12345-6789"
+    },
+    "street1": {
+      "regex": "Only letters, numbers,  and these symbols: - , ",
+      "streetType": " Contains letter, number, symbols - which allowed by standard"
+    },
+    "personType": {
+      "uniquePersonType": "User already has this role in current group",
+      "in": "Type is not correct"
+    },
+    "bundleDesc": {
+      "specialStringOrient": "You cannot set symbol ;"
+    },
+    "bundleName": {
+      "specialStringOrient": "You cannot set symbol ;"
+    },
+    "bundleCode": {
+      "exist": "Bundle code already exists",
+      "uniqueBundleCode": "Bundle Code should be unique"
+    },
+    "hash": {
+      "exist": "Recovery link is not actual"
+    },
+    "administration": {
+      "notAdvisor": "You are not adviser"
+    },
+    "startDate": {
+      "notUpperThan": "Start date should be less than End date"
+    },
+    "hasChildGroups": "Can't delete this group because it has nested group(s).",
+    "hasRelatedBundles": "Can't delete this group because it has bundle(s).",
+    "deleteGroupReadonly": "This group can't be deleted.",
+    "hasAttachedRecords": "Can't delete this group because it has attached records.",
+    "notAdviser": "You are not adviser",
+    "notExist": "User not exist",
+    "demographicDateOfBirth": {
+      "limitBirthday": "You must be at least 13 years old to use this site"
+    },
+    "personPhotoSrc": {
+      "publicFileExist": "Profile image doesn't exist. Please upload new image."
+    },
+    "bundleParentId": {
+      "validBundleParentId": "You can't choose this bundle as a parent."
+    },
+    "groupBranding": {
+      "required": "Group Branding is required",
+      "RID": "Invalid ID value"
+    },
+    "parentGroupId": {
+      "required": "Parent Group is required",
+      "string": "Should be only letters",
+      "regex": "Wrong parent group id",
+      "validParentGroupId": "Can not be parent"
+    },
+    "demographicCountryOfResidence": {
+      "string": "Invalid data"
+    },
+    "demographicEmploymentStatus": {
+      "string": "Invalid data"
+    },
+    "demographicEducationCompleted": {
+      "string": "Invalid data"
+    },
+    "demographicIndustry": {
+      "string": "Invalid data"
+    }
+  },
+  "uploadErrors": {
+    "enforceFileExtension": "File extension should be xlsx or xls",
+    "enforceFileExtensionImage": "File extension should be jpg, jpeg, gif, png or svg",
+    "enforceMaxFileSize": "Files must be less than 10Mb",
+    "enforceMaxFileSizeImage": "Files must be less than 2Mb"
+  },
+  "login": {
+    "title": "We get you one step closer!",
+    "subTitleOne": "<p>Welcome to <strong>VitaNavis&trade;</strong>, created by CPP Innovations Labs, one of the world's leading experts on the science of personality. The meaning of <strong>VitaNavis</strong> is \"life ship\".  <strong>VitaNavis&trade;</strong> combines CPP's scientifically validated and reliable personality assessments with the latest behavioral science to recommend actions that you can take to help you navigate a path towards your educational and career goals.</p><p>The first step in the voyage is to take our streamlined version of the Strong Interest Inventory&reg;, the <strong>SuperStrong&trade;</strong>, an assessment used for decades to help users align their personal interests with \"life ways\", both career and personal. Once you have completed the <strong>SuperStrong</strong>, you will be sent an email with a link to view your personal <strong>SuperStrong</strong> insights and begin to explore what careers reflect your interests and may be most rewarding to you. </p>",
+    "loginBtn": "Log In",
+    "signUpnBtn": "Sign Up",
+    "subTitleThree": "<strong>VitaNavis&trade;</strong> is a product of the CPP Innovation Labs. Since 1956, CPP has been a leader in personality and is known for the science and research behind its gold-standard personality assessments. We look to further CPP's mission of helping people \"be better\" by utilizing cutting-edge technology and data science to enhance the insight and experiences we offer to people and their organizations.",
+    "vitaNavisTrade": "VitaNavis&trade;",
+    "usesThe": "uses the",
+    "superStrongTrade": "SuperStrong&trade;",
+    "cpp": "CPP",
+    "interestAssessmentToFind": "interest assessment to find educational and career pathways for you. For each pathway, we link your interests to careers, salaries, job outlooks, skills, and the education you’ll need to meet your goals. In the next 5-10 minutes you can be planning the next steps in your life. Are you ready to start your journey?",
+    "viewThe": "View the",
+    "videoAndSignUpNow": "video and SIGN UP now!",
+    "promoCodeAccepted": "Promo Code Accepted",
+    "pleaseLogInOrSignUp": "Please Log In if you already have an account or Sign Up to create an account."
+  },
+  "footer": {
+    "text": "2016 by",
+    "text2": " Inc. All rights reserved. CPP logos are trademarks or registered trademarks of CPP, Inc, in the United states and other countries. Click to view VitaNavis",
+    "text3": " and ",
+    "text4": " Salary and occupation data provided by Bureau of Labor Statistics, U.S. Department of Labor at "
+  },
+  "signUpModal": {
+    "title": "Sign Up",
+    "dontHave": "Don't have a",
+    "promoCode": "Promo Code?",
+    "emailIsRequired": "Email is required",
+    "invalidEmailAdress": "Not a valid email address",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "passwordPlaceholder": " Password",
+    "passwordPlaceholderTwo": " Verify Password",
+    "promoCodePlaceholder": " Promo Code",
+    "emailPlaceholder": " Email",
+    "emailPlaceholderTwo": " Verify Email",
+    "providingYourBirthdateAndGenderTooltip": "Providing your birthdate and gender helps make sure you get the best VitaNavis experience. For more details, please visit our Privacy Policy and Terms of Use.",
+    "byClickingTheSignUp": "By clicking the Sign Up button, you agree to the VitaNavis",
+    "and": "and"
+  },
+  "getPromoCodeModal": {
+    "title": "Promo Code",
+    "titleTwo": "Please request a Promo Code here:",
+    "messageIsRequired": "Message is required",
+    "emailIsRequired": "Email is required",
+    "invalidEmailAdress": "Not a valid email address",
+    "returnToSignUp": "Return to Sign Up",
+    "submit": "Submit",
+    "messagePlaceholder": " Type here to let us know why you're interested in taking the SuperStrong",
+    "checkYourEmail": "Check Your Email",
+    "emailPlaceholder": " Email"
+  },
+  "askCoverModel":{
+    "title":"Choose cover",
+    "pleaseChooseOne": "Please choose one of available cover",
+    "choose": "Choose",
+    "selectCover": "Select cover"
+  },
+  "signInModal": {
+    "emailIsRequired": "Email is required",
+    "invalidEmailAdress": "Not a valid email address",
+    "passwordIsRequired": "Password is required",
+    "submit": "Log In",
+    "title": "Log In",
+    "passwordProblems": "Password problems?",
+    "emailPlaceholder": " Email",
+    "keepMeLoggedIn": "Keep me logged in.",
+    "keepMeLoggedInTooltip": "For public or shared computers, do not select this option."
+  },
+  "passwordProblem": {
+    "titleTwo": "Would you like your <strong>Password</strong> emailed to you?",
+    "emailIsRequired": "Email is required",
+    "invalidEmailAdress": "Not a valid email address",
+    "returnToLogin": "Log In",
+    "returnTo": "Return to",
+    "submit": "Submit",
+    "emailPlaceholder": " Email"
+  },
+  "resetPassword": {
+    "resetPassword": "Reset password",
+    "success": "Your Password has been changed"
+  },
+  "completeRegistrationImport": {
+    "success": "Thank you for confirming",
+    "youAreRegistered": "You are registered!",
+    "clickHereTo": "Click here to",
+    "setYourPassword": "Set your Password",
+    "afterSettingPasswordYouCanLogIntoVitaNavis": "After setting a password, you can log into VitaNavis."
+  },
+  "sendActivationLink": {
+    "button": "Send new confirmation link",
+    "success": "We sent a new activation link to you at"
+  },
+  "home": {
+    "welcomeToHomepage": "Welcome to the homepage of <strong>VitaNavis&trade;</strong>! Here you'll find Tools and Insights to help you achieve your goals in life - personal, educational, and career. We'll be in touch with new resources for you! If you have feedback for us, drop us a line at <a href=\"mailto:feedback@vitanavis.com\">feedback@vitanavis.com</a>.",
+    "stayTuned": "Stay tuned!",
+    "gotPromoCode": "Got a Promo Code?",
+    "wantPromoCode": "Want a promo code?",
+    "findYourResults": "Find your results under the Insights dropdown menu at the top of the page.",
+    "findTheOrganizations": "Find the Organizations that you are linked to under the Organizations dropdown menu at the top of the page.",
+    "messagingComingSoon": "Messaging coming soon. Stay tuned!",
+    "beforeExploringYourPersonalCareerPathways": "Before exploring your personal Career Pathways, you'll need to take the SuperStrong interest assessment. Request a promo code above.",
+    "alreadySharedAssessemnt": "You have already shared {{assessmentName}} Insights with {{groupName}}",
+    "confirmShareAssessment": "You are sharing your {{assessmentName}} Insights with {{groupName}}.<br /><br />By sharing, you will connect with {{groupName}} and will gain access to their offerings.<br /><br />Continue and share?",
+    "confirmShareAssessmentYes": "Yes!",
+    "confirmShareAssessmentNo": "No, thanks.",
+    "confirmRetakeAssessment": "Your {{assessmentName}} Results may have changed. You last took {{assessmentName}} on {{recordDate | date : 'mediumDate'}}. We suggest retaking it.",
+    "confirmRetakeAssessmentYes": "Yes, retake!",
+    "userProfile": "User Profile",
+    "userProfileTooltip": "Edit Your Profile",
+    "insights": "Insights",
+    "insightsTooltip": "Learn About You",
+    "organizations": "Organizations",
+    "organizationsTooltip": "Explore Schools and Employers",
+    "careerPathways": "Career Pathways",
+    "careerPathwaysTooltip": "Consider Your Future",
+    "enterPromo": "Enter Promo"
+  },
+  "wrongPromoCode": "Wrong promo code",
+  "somethingHappensWrong": "Something went wrong. Please try again.",
+  "youAreNotAuthorizedPleaseLogInOne": "Please press the ",
+  "youAreNotAuthorizedPleaseLogInTwo": "button. Use your email and password to log into VitaNavis.",
+  "assessments": "Assessments",
+  "organizations": "Organizations",
+  "administration": "Administration",
+  "logout": "Log Out",
+  "hello": "Hello",
+  "forbiden": "Forbidden",
+  "thankYou": "Thank you",
+  "bundles": "Bundles",
+  "selectCountry": "< Select a country >",
+  "program": "Program",
+  "exampleOccupation": "Example occupation",
+  "you": "You",
+  "streetOne": "Street 1",
+  "streetTwo": "Street 2",
+  "city": "City",
+  "state": "State",
+  "zipCode": "Zip Code",
+  "country": "Country",
+  "confirm": "Confirm",
+  "hide": "Hide",
+  "reset": "Reset",
+  "date": "Date",
+  "yourEmailHasBeenConfirmed": "Your email has been confirmed.",
+  "accoundIsNotApprovedForViewingResult": "Thank you!  Your <strong>SuperStrong&trade;</strong> results are on the way! Check your email and click on the link to view your results",
+  "assessment": {
+    "profile": {
+      "title": "First,",
+      "titleTwo": "Please tell us a little bit about yourself",
+      "firstName": " Your First Name",
+      "firstNameRequired": "First name is required",
+      "shouldBeOnlyLetters": "Should be only letters",
+      "max150Letter": "Max 150 letters",
+      "yourLastName": " Your Last Name",
+      "lastNameIsRequired": "Last name is required",
+      "max150Letters": "Max 150 Letters"
+    },
+    "questions": {
+      "somethingWasMissed": "Oops! You missed a question. Please answer all questions."
+    },
+    "instructions": "Instructions...",
+    "next": "Next",
+    "back": "Back",
+    "submit": "Submit"
+  },
+  "admin": {
+    "userDoesNotExist": "User does not exist",
+    "groupAliasNotFound": "GroupAlias is not found"
+  },
+  "weArePreparingTheResults": {
+    "weArePreparing": "We sent an account confirmation email to",
+    "weArePreparingSecondPart": "Click on the link in the email. You will receive full access to the VitaNavis site.",
+    "cantFindTheConfirmationEmail": "Can't find the confirmation email? Check your SPAM or JUNK folder.",
+    "activationProblem": "If you have a problem confirming, please try to send a new confirmation link or contact us.",
+    "logoutText": "After viewing your results you can logout."
+  },
+  "result": {
+    "titleHeader":"Your {{titleHeader}} Insights",
+    "clickOn":"Click on",
+    "print":"Print",
+    "interestCode":"Your Interest Code",
+    "noResult": "You don't have result yet.",
+    "pss": {
+      "WorkingStyle": "Work Style",
+      "LearningEnvironment": "Learning Environment",
+      "LeadershipStyle": "Leadership Style",
+      "RiskTaking": "Risk Taking",
+      "TeamOrientation": "Team Orientation"
+    },
+    "whatsYourStyle": "Click to learn about your Work Styles. How do you like to work and learn?",
+    "yourOccupationalThemes": "Occupational Themes",
+    "hereAreTopThree": "Your Top 3",
+    "hereIsTopOne": "Here is your top Occupational Theme",
+    "youCanAccessYourResults": "Select Career Pathways to explore careers that may interest you. ",
+    "pleaseRateYourCareerInterests": "Please rate your Career Interests!",
+    "resultsSummary": "Results Summary",
+    "rateIt": "Rate it!",
+    "careerActivities": "Career Activities:",
+    "careerInterests": "Career Interests",
+    "topCareerInterests": "Top Career Interests",
+    "workStyles": "Work Styles",
+    "workStyle": "Work Style",
+    "poweredBy": "Powered by:",
+    "Interests": "Interests",
+    "Work Activities": "Work Activities",
+    "Potential Skills": "Potential Skills",
+    "Values": "Values",
+    "yourTopOccupationalThemes": "Your Top Occupational Themes",
+    "yourTopSix": "Your Top 6",
+    "finish": "Finish",
+    "allRightReserved": "© CPP, Inc. All rights reserved",
+    "yourCareerInterests": "Your Career Interests",
+    "yourPersonalStyle": "Your Personal Style"
+  },
+  "personProfile": {
+    "fullName": "Full name",
+    "email": "Email",
+    "address": "Address",
+    "memberSinse": "Member Since",
+    "joinedDate": "Joined date",
+    "dateOfBirth": "Date of birth",
+    "ethnicity": "Ethnicity",
+    "edit": "Edit",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "female": "Female",
+    "male": "Male",
+    "preferNotToAnswer": "Prefer not to answer",
+    "oldPassword": "Old Password",
+    "personPhoneCountry": "Phone Country Code",
+    "personPhoneNumber": "Phone Number",
+    "phone": "Phone",
+    "password": "Password",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "hide": "Hide",
+    "newPassword": "New Password",
+    "repeatNewPassword": "Repeat New Password",
+    "changeEmail": "Change Email",
+    "currentEmail": "Current Email",
+    "newEmail": "New Email",
+    "repeatNewEmail": "Repeat New Email",
+    "insights": "Insights",
+    "organizations": "Organizations",
+    "incomplete": "Incomplete",
+    "selectCountry": "Select a country",
+    "pwdToolTip": "Please type your password to confirm changes."
+  },
+  "personDemographic": {
+    "label": "Extended Profile",
+    "edit": "Complete Your Profile",
+    "hide": "Hide",
+    "residence": "Country Of Residence",
+    "empStatus": "Employment Status",
+    "empStatusSelector": "Select status",
+    "edCompleted": "Education Completed",
+    "edCompletedChoices": "Select graduation status",
+    "lang": "Languages",
+    "langChoices": "Select languages",
+    "industry": "Industry",
+    "industrySelector": "Select industry",
+    "countrySelector": "Select a country"
+  },
+  "contactUsButton": "Contact Us",
+  "contactUs": {
+    "title": "Contact Us",
+    "titleTwo": "Please let us know how we can help you.",
+    "thankForFeedback": "Thank you",
+    "weRespondToAll": "We respond to all requests in the order they are received during regular business hours 9am-5pm PT M-F",
+    "cancel": "Cancel",
+    "send": "Send",
+    "name": "Name",
+    "pleaseSelectYourIssueType": "< Please select your issue type >",
+    "loginRegistration": "Login/Registration",
+    "promoCode": "Promo Code",
+    "assessmentAndResults": "Assessment and Results",
+    "feedbackSuggestions": "Feedback/Suggestions",
+    "salesInquiry": "Sales Inquiry",
+    "other": "Other"
+  },
+  "confirmModal": {
+    "selectCover": "Select cover",
+    "yes": "yes",
+    "no": "no"
+  },
+  "save": "Save",
+  "cancel": "Cancel",
+  "birthday": "Birthday",
+  "gender": "Gender",
+  "month": "Month",
+  "day": "Day",
+  "year": "Year",
+  "dislike": "Dislike",
+  "unsure": "Unsure",
+  "like": "Like",
+  "chooseCompany": "< choose company >",
+  "password": " Password",
+  "incomplete": "Incomplete",
+  "selectAnOption": "< Select an Option >",
+  "months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  },
+  "frontEndValidationErrors": {
+    "nameIsRequired": "Name is required.",
+    "shouldBeOnlyLetters": "Should be only letters.",
+    "messageBodyIsRequired": "Message body is required.",
+    "invalidEmailAdress": "Not a valid email address.",
+    "emailIsRequired": "Email is required.",
+    "messageSubjectIsRequired": "Subject is required.",
+    "photosCouldntUploaded": "Your image couldn't be uploaded. File size should be less than 2 MB and saved as image.",
+    "xlsCouldntUploaded": "Your file couldn't be uploaded. File size should be less than 2 MB and saved as 'xls', 'xlsx' or 'csv'.",
+    "imageFileRequirement": "File size should be less than 2 MB and saved as 'jpg', 'png', 'gif', 'jpeg', 'bmp', 'jng', 'icon', 'webp', 'wbmp', 'tif', 'tiff', 'svg', 'ico'.",
+    "xlsFileRequirement": "File size should be less than 2 MB and saved as 'xls', 'xlsx', 'csv'.",
+    "youHaveUsedPromocodeLimit": "You have used your promocode limit.",
+    "toLongMaximumLength": "Too long. Maximum allowed length is {{length}} characters.",
+    "toShortMinimumLength": "Too short. Minimum allowed length is {{length}} characters.",
+    "PASSWORD": {
+      "MINLENGTH": "Too short. Minimum password length should be 8.",
+      "MAXLENGTH": "Too long. Maximum password length should be 30.",
+      "PATERN": "Password should contain at least one lower case letter, one upper case letter, one digit and one special character (!@#$%^&*).",
+      "REQUIRED": "Password is required.",
+      "UNIQUE": "The passwords do not match."
+    },
+    "invalidPromoCode": "Invalid Promo Code.",
+    "birthdayIsRequired": "Birthday is required.",
+    "emailIsNotUnique": "Email addresses do not match.",
+    "onlyLettersNumbersAndPunctuationMarks": "Only letters, numbers and punctuation marks.",
+    "streetOneIsRequired": "Street 1 is required.",
+    "onlyLettersNumbersAndSymbols": "Only letters, numbers, \"-\" , \",\" , \"#\".",
+    "streetTwoIsRequired": "Street 2 is required.",
+    "cityRequired": "City is required.",
+    "onlyLettersNumbersAndSymbolsTwo": "Only letters, numbers, \"-\" and \",\".",
+    "addressIsRequired": "Address is required.",
+    "zipCodeIsRequired": "Zip code is required.",
+    "onlyLettersNumbersAndSymbolsZipCode": "Only letters, numbers, \"-\". Example: 12345-6789.",
+    "countryIsRequired": "Country is required.",
+    "genderIsRequired": "Gender is required.",
+    "numeric": "Should be only numbers",
+    "profilePhone": {
+      "countryCode": {
+        "pattern": "Should be only numbers",
+        "minLength": "Too short. Minimum allowed length is 1 character.",
+        "maxLength": "Too long. Maximum password length should be 6.",
+        "countryMissed": "Please choose phone country code.",
+        "invalidDialCode": "Phone country code doesn't exist"
+      },
+      "phoneNumber": {
+        "pattern": "Should be only numbers",
+        "minLength": "Too short. Minimum allowed length is 6 characters.",
+        "maxLength": "Too long. Maximum allowed length should be 10."
+      }
+    },
+    "profilePwd": {
+      "required": "Password is required to confirm changes."
+    },
+    "EMAIL": {
+      "REQUIRED": "Email is required",
+      "PATTERN": "Invalid email address",
+      "MATCH": "Emails don't match"
+    }
+  },
+  "placeholders": {
+    "message": " Message"
+  },
+  "auth": {
+    "recovery": {
+      "linkNotExist": "This link is not valid. If you believe this is an error, please follow the password recovery procedure again and use the latest email to complete the process."
+    }
+  },
+  "adminPanel": {
+    "highlightColor": "Highlight Color",
+    "highlightColorTitle": "Sets the color of <h1>, <h2>, <h3>, all \"big\" buttons (e.g. Log In, Sign Up buttons), social media icons, main page icons and the color of modal windows.",
+    "footerTextColor": "Footer Text Color",
+    "footerTextColorTitle": "This sets the color of the footer text on all pages.",
+    "buttonTextColor": "Button Text Color",
+    "buttonTextColorTitle": "This sets the color of the text on buttons (e.g. Log In, Sign Up buttons).",
+    "modalTextColor": "Modal Text Color",
+    "modalTextColorTitle": "This sets the color of the text on all modal windows.",
+    "modalLinksColor": "Modal Links Color",
+    "modalLinksColorTitle": "This is the color of the links in all modal windows.",
+    "logoImage": "Logo Image",
+    "logoImageTitle": "Customer logo image displayed on all pages",
+    "backgroundImage": "Background Image",
+    "backgroundImageTitle": "Customer background image displayed on all pages",
+    "reset": "Reset",
+    "resetToPreviouslySavedVersion": "Reset to previously saved version.",
+    "preview": "Preview",
+    "previewContents": "Preview contents.",
+    "group": {
+      "institution": {
+        "headline": "Institutions",
+        "noRecords": "There are no attached institutions.",
+        "attachLabel": "Attach new institution",
+        "detachConfirm": "Detach selected institution?",
+        "programsLink": "Manage Programs"
+      }
+    },
+    "institution": {
+      "headline": "Institutions"
+    },
+    "institutionProgram": {
+      "programs": "Programs"
+    }
+  },
+  "groupNotFound": "Group not found",
+  "teamGroupDontHaveStyles": "Team groups don't have branding styles.",
+  "pageNotFound": "Page not found",
+  "didntAnswerPreviousQuestions": "You haven't answered to previous questions. Please answer to all previous questions.",
+  "companyDoesntExist": "Company {{companyName}} doesn't exist",
+  "navbar": {
+    "assessmentAvailableTooltip": "Complete your assessment",
+    "supportTooltip": "Support",
+    "noAssessments": "No assessments",
+    "noOrganizations": "No organizations",
+    "groupMgmt": "Group Mgmt",
+    "searchManage": "Search/Manage",
+    "newGroup": "New Group",
+    "manageInstitutions": "Manage Institutions",
+    "importGroups": "Import Groups",
+    "userMgmt": "User Mgmt",
+    "newUser": "New User",
+    "importUsers": "Import Users",
+    "support": "Support",
+    "insights": "Insights",
+    "home": "Home",
+    "learnMoreAbout": "Learn more about {{companyName}}!",
+    "tools": "Tools"
+  },
+  "careerPathways": {
+    "detailsNotAvailable": "Details not available",
+    "noEducationalPathsWereFound": "No educational paths were found. This job may not require education after high school.",
+    "relatedEducation": "Related Education",
+    "theseEducationalPathsCan": "These educational paths can help prepare you for this job:",
+    "requirements": "Requirements",
+    "workday": "Workday",
+    "skills": "Skills",
+    "moreInfo": "More Info",
+    "typicallyRequiresKnowledge": "Typically Requires Knowledge in These Areas:",
+    "levelOfEducation": "Level of Education",
+    "onTheJobTraining": "On the Job Training",
+    "commonTasks": "Common Tasks",
+    "whatToExpect": "What to Expect",
+    "area": "Area",
+    "value": "Value",
+    "typicalSkillsRequired": "Typical Skills Required",
+    "typicalAbillitiesRequired": "Typical Abilities Required",
+    "exploreOnet": "Explore ONET",
+    "nextStepsForEducation": "Next steps for education...",
+    "alternativeJobTitles": "Alternative Job Titles",
+    "jobOutlook": "Job Outlook:",
+    "steady": "Steady",
+    "growth": "Growth",
+    "decline": "Decline",
+    "green": "Green",
+    "description": "Description",
+    "workActivities": "Work Activities",
+    "averageSalary": "Average Salary",
+    "jobSummary": "Job Summary",
+    "jobDetails": "Job Details",
+    "education": "Education",
+    "careerPathways": "Career Pathways",
+    "careerPathwaysShowsYouJobs": "Career Pathways shows you jobs that match your interests.",
+    "youCanReturnAnytimeToExploreCareers": "You can return anytime to explore careers, salaries, job outlooks, skills, education, and training you'll need to meet your goals.",
+    "moreJobOpeningsExpectedInTheFuture": "More job openings expected in the future.",
+    "fewerJobOpeningsExpectedInTheFuture": "Fewer job openings expected in the future.",
+    "jobsArePartOfTheGreenEconomy": "Jobs are part of the Green Economy.",
+    "careers": "Careers",
+    "clickHereToExploreScrollDownToViewCareers": "Click here to explore! Scroll down to view careers."
+  },
+  "userInformationModal": {
+    "endDate": "End Date",
+    "startDate": "Start Date"
+  },
+  "gridEditor": {
+    "addNewRecord": "Add New Entry",
+    "saveChanges": "Save changes",
+    "revertChanges": "Revert changes",
+    "searchRun": "Search",
+    "searchPlaceholder": " Keyword",
+    "searchClear": "Clear",
+    "entry": "Entry"
+  },
+  "organizationPage": {
+    "programsThatMatchYourInterests": "Programs that match your interests",
+    "userAssessmentNotExists": "Matching not available. Please take applicable assessment",
+    "groupProgramsNotExists": "Matching not available",
+    "noProgramMatches": "No program matches",
+    "areaOneText": "Area 1 Text. Enter company description here",
+    "areaTwoAHeadline": "Area 2A Headline",
+    "areaTwoBHeadline": "Area 2B Headline",
+    "clickHere": "Click here"
+  },
+  "adviserRecord": {
+    "programMatches": "Program Matches",
+    "userAssessmentNotExists": "User has not taken or shared applicable assessment",
+    "groupProgramsNotExists": "Program data currently not available",
+    "noProgramMatches": "No program matches"
+  },
+  "advisor": {
+    "export": "Export",
+    "fileExport": "File Export",
+    "pleaseSelectFile": "Please select file export format",
+    "download": "Download",
+    "downloadAsxls": "Download as XLS",
+    "downloadAscsv": "Download as CSV",
+    "delimitercomma": "Comma",
+    "delimitersemicolon": "Semicolon",
+    "delimitertab": "Tab",
+    "search": "Search",
+    "searchAndViewResults": "Search and view results of users that have completed assessments.",
+    "performTheFollowingActions": "Perform the following actions:",
+    "interestAndCareer": "Interest and Career",
+    "studentNameEmail": "Student Name/Email",
+    "studentId": "Student Id",
+    "dateCompleted": "Date Completed",
+    "promoCodeName": "Promo Code Name",
+    "rangesFrom": "Ranges from",
+    "rangesTo": "Ranges to",
+    "from": "From",
+    "to": "To",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "id": "ID",
+    "date": "Date",
+    "email": "Email",
+    "promoName": "Promo Name",
+    "showing": "showing",
+    "of": "of",
+    "assessment": "Assessment",
+    "noRecordsFound": "No Records Found"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "english-spanish-node.js",
+  "version": "1.0.0",
+  "description": "index.js - compare en-US.json with es-MX.json and write difference to excel file \"file.xlsx\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koriUA/english-spanish-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koriUA/english-spanish-node.js/issues"
+  },
+  "homepage": "https://github.com/koriUA/english-spanish-node.js#readme",
+  "dependencies": {
+    "node-xlsx": "^0.7.4"
+  }
+}
