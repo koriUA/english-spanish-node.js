@@ -1,1 +1,642 @@
-{"careerPathways":{"noEducationalPathsWereFound":"No se han encontrado vías educativas. Este trabajo puede no requerir la educación después de la secundaria.","detailsNotAvailable":"Los detalles no disponibles"},"navbar":{"manageInstitutions":"Manejo de las instituciones","groupMgmt":"grupo de Gestión","newUser":"Nuevo usuario","support":"Apoyo","importGroups":"Grupos de importación","noOrganizations":"No hay organizaciones","searchManage":"Buscar / Administrar","importUsers":"Importar usuarios","userMgmt":"Gestión de usuarios","newGroup":"Nuevo grupo","noAssessments":"No hay evaluaciones","supportTooltip":"Apoyo","insights":"intuición"},"completeRegistrationImport":{"clickHereTo":"Click aquí para","youAreRegistered":"Usted está registrado!","success":"Gracias por confirmar"},"organizationPage":{"groupProgramsNotExists":"Coincidencia no disponible","programsThatMatchYourInterests":"Los programas que coincidan con sus intereses","noProgramMatches":"Ningún programa coincide","userAssessmentNotExists":"Coincidencia no disponible. Por favor, tome evaluación aplicable"},"weArePreparingTheResults":{"weArePreparing":"Nos un correo electrónico a sus resultados","activationProblem":"Si usted tiene un problema con la activación intenta un nuevo enlace de activación o ponerse en contacto con nosotros.","weArePreparingSecondPart":"Haga clic en el enlace del correo electrónico para acceder a ellos.","logoutText":"Después de ver los resultados se puede cerrar la sesión."},"result":{"pleaseRateYourCareerInterests":"Por favor calificar tus intereses profesionales!","whatsYourStyle":"Haga clic para aprender acerca de sus estilos de trabajo. żCómo le gusta trabajar y aprender?","yourOccupationalThemes":"Temas ocupacionales","hereAreTopThree":"Su Top 3","hereIsTopOne":"Aquí es su máxima tema de interés profesional","pss":{"RiskTaking":"La toma de riesgos","TeamOrientation":"equipo de Orientación","LeadershipStyle":"Estilo de liderazgo","hardcode":{"WorkingStyle":{"mid":"Dependiendo del trabajo, pueden preferir trabajar solo o en grupo. Puede disfrutar de situaciones sociales o ser más reservado.","high":"Prefiere trabajar con la gente. Disfruta de ayudar a los demás. Extrovertida.","description_high":"Prefiero trabajar con la gente.","low":"Prefiere trabajar solo. Disfruta de datos, ideas o cosas. Reservado.","description_mid":"Balance de trabajar solo y con las personas.","description_low":"Prefiero trabajar solo."},"TeamOrientation":{"mid":"Dependiendo de la dinámica de trabajo y de equipo, puede preferir a colaborar con otros o trabajar de forma independiente.","high":"Prefiere trabajar en equipo. Disfruta de colaborar en los objetivos del equipo. Le gusta resolver un problema con los demás.","description_high":"Prefiero trabajar en equipo.","low":"Prefiere llevar a cabo tareas de forma independiente. Disfruta de papel como colaborador independiente. Le gusta resolver problemas en oneâ € ™ s propia.","description_mid":"Disfrutar de una mezcla de trabajo independiente y en equipo.","description_low":"colaborador independiente."},"LeadershipStyle":{"mid":"Puede ser cómodo motivar a los demás dando ejemplo y hacerse cargo. Dependiendo de la situación, puede preferir que aporta más líder.","high":"Es cómodo y hacerse cargo de motivar a los demás. Prefiere dirigir a otros para hacer el trabajo solos. Disfruta de iniciar la acción. Expresa opiniones con facilidad.","description_high":"Hacerse cargo.","low":"No es cómodo tomando la carga de los demás. Prefiere hacer el trabajo en lugar de dirigir a otros. Puede servir de ejemplo en lugar de dar instrucciones.","description_mid":"Hacerse cargo y dar el ejemplo.","description_low":"Predicar con el ejemplo."},"RiskTaking":{"mid":"Evalúa nuevas y originales ideas antes de tomar una decisión. Dispuesto a tomar riesgos calculados con información de apoyo.","high":"Le gusta la asunción de riesgos. Aprecia ideas nuevas y originales. Disfruta de actividades emocionantes y correr riesgos. Toma decisiones rápidas.","description_high":"Disfrutar de tomar riesgos.","low":"No le gusta la asunción de riesgos. Le gusta actividades tranquilas. Prefiere ir a lo seguro. Toma decisiones cuidadosas.","description_mid":"Cómodo con un poco de riesgo.","description_low":"No me gusta tomar riesgos."},"LearningEnvironment":{"mid":"Depending on the subject, may prefer listening and reading over learning by doing. Enjoys a balance of theory and practical learning. Motivated to learn by setting goals.","high":"Prefiere los ambientes académicos. Aprende a través de conferencias y libros. Dispuesto a pasar muchos ańos en la escuela. Busca el conocimiento por sí mismo.","description_high":"Aprender escuchando y leyendo.","low":"Prefiere práctica en entornos de aprendizaje. Aprende haciendo. Prefiere formación a corto plazo para alcanzar una meta o habilidad específica.","description_mid":"Aprender a través de una mezcla de hacer, conferencias y libros.","description_low":"Aprender haciendo."}},"WorkingStyle":"Estilo de trabajo","LearningEnvironment":"Ambiente de aprendizaje"},"noResult":"Usted no tiene resultado todavía.","youCanAccessYourResults":"Seleccionar Caminos a la Carrera de explorar las carreras que te pueden interesar."},"home":{"gotPromoCode":"żTienes un código de promoción?","wantPromoCode":"żQuieres un código promocional?","stayTuned":"ˇManténganse al tanto!","findYourResults":"Encuentra sus resultados bajo el menú desplegable Insights en la parte superior de la página.","welcomeToHomepage":"Bienvenido a la página de <strong> VitaNavis&trade; </ strong>! Aquí encontrará herramientas y conocimientos para ayudarle a alcanzar sus metas en la vida - personal, educativo y profesional. Vamos a estar en contacto con nuevos recursos para usted! Si usted tiene un comentario para nosotros, envíanos una línea en <a href=\"mailto:feedback@vitanavis.com\"> feedback@vitanavis.com </a>."},"wrongPromoCode":"código promocional incorrecto","adminPanel":{"reset":"Reiniciar","modalTextColor":"Modal Color del texto","group":{"institution":{"headline":"instituciones","attachLabel":"Adjuntar nueva institución","noRecords":"No hay instituciones adjuntas.","detachConfirm":"Separar institución seleccionada?","programsLink":"Manejo de Programas"}},"institution":{"headline":"instituciones"},"highlightColorTitle":"Establece el color de <h1>, <h2>, <h3>, todos los botones grandes '(por ejemplo Entrar","buttonTextColorTitle":"Esto ajusta el color del texto en los botones (por ejemplo Entrar Únete botones).","backgroundImageTitle":"imagen de fondo de atención al cliente está representada en todas las páginas","footerTextColorTitle":"Esto ajusta el color del texto de pie de página en todas las páginas.","modalLinksColorTitle":"Este es el color de los enlaces en todas las ventanas modales.","modalLinksColor":"Modal Enlaces","previewContents":"contenido de vista previa.","highlightColor":"color de resaltado","backgroundImage":"Imagen de fondo","logoImage":"Logotipo","footerTextColor":"Color del texto de pie de página","institutionProgram":{"programs":"programas"},"modalTextColorTitle":"This sets the color of the text on all modal windows.","buttonTextColor":"Esto ajusta el color del texto en todas las ventanas modales.","resetToPreviouslySavedVersion":"Restablecer a la versión guardada anteriormente.","preview":"Avance","logoImageTitle":"imagen del logo del cliente aparece en todas las páginas"},"contactUs":{"titleTwo":"Por favor, déjanos saber como podemos ayudarte.","name":"Nombre","title":"Contáctenos","weRespondToAll":"Respondemos a todas las peticiones en el orden en que se recibieron durante el horario normal de 9 am-5 pm PT L-V","send":"Enviar","cancel":"Cancelar","thankForFeedback":"Gracias"},"contactUsButton":"Contact Us","accoundIsNotApprovedForViewingResult":"ˇGracias! Su <strong> SuperStrong y comerciales; </ strong> resultados están en el camino! Consultar su correo electrónico y haga clic en el enlace para ver los resultados","gridEditor":{"searchClear":"Claro","searchPlaceholder":"Palabra clave","revertChanges":"Revertir cambios","searchRun":"Buscar","addNewRecord":"Ańadir nuevo ingreso","entry":"Entrada","saveChanges":"Guardar cambios"},"administration":"Administración","placeholders":{"message":"Mensaje"},"serverErrors":{"0":{"undefined":"Algo salió mal. Por favor, inténtelo de nuevo."},"feedback":{"required":"recordFeedback no se encuentra"},"bundleDesc":{"specialStringOrient":"No se puede establecer símbolo;"},"notAdviser":"Usted no es asesor","hasAttachedRecords":"No se puede eliminar este grupo porque se ha unido registros.","personEmail":{"type":"La dirección de email no es válida","uniqueMail":"el correo electronico ya ha sido tomado","unique":"el correo electronico ya ha sido tomado","exist":"el usuario no existe","email":"La dirección de email no es válida"},"personType":{"uniquePersonType":"El usuario ya tiene esta función en el grupo actual","in":"Tipo no es correcta"},"regex":{"regex":"Sólo letras, números y símbolos de estas: -, '"},"city":{"regex":"Sólo letras, números y símbolos de estas: -, '"},"bundleName":{"specialStringOrient":"No se puede establecer símbolo;"},"administration":{"notAdvisor":"Usted no es asesor"},"groupName":{"uniqueGroupName":"Nombre del grupo no es único","specialStringOrient":"No se puede utilizar el símbolo;","unique":"Nombre del grupo no es único","readonly":"El nombre de este grupo no se puede cambiar."},"state":{"regex":"Sólo letras, números y símbolos de estas: -, '"},"bundleCode":{"uniqueBundleCode":"Código haz debe ser único","exist":"código Bundle ya existe"},"personPassword":{"personPassswordOld":"La contraseńa no es correcta"},"parentGroupId":{"validParentGroupId":"No puede ser el padre"},"import":{"emptyData":"Archivo está vacío o tiene filas vacías. Por favor, compruebe su archivo","validation":"Los errores de validación:","string":"Algo salió mal. Por favor, inténtelo de nuevo.","emailCustom":"La dirección de email no es válida","required":"Se requiere campo","transform":"Los datos en el archivo tiene un formato incorrecto","readFile":"Hoja de recuento no es igual a 1","groupName":{"unique":"nombre_de_grupo no es único"},"personEmail":"Email:","in":"Tipo no es correcta","unique":"el correo electronico ya ha sido tomado","email":"La dirección de email no es válida"},"assessment":{"available":"La evaluación no está disponible","answer":"Las respuestas no se establecen"},"email":{"email":"La dirección de email no es válida"},"groupType":{"in":"Tipo no es correcta"},"hash":{"exist":"enlace de recuperación no es real"},"hasRelatedBundles":"No se puede eliminar este grupo porque tiene paquete (s).","street1":{"regex":"Sólo letras, números y símbolos de estas: -,","streetType":" Contiene letra, número, símbolos - lo que permitió por la norma"},"street2":{"regex":"Sólo letras, números, símbolos especiales: -,","streetType":"Debe contener letras, números y símbolos especiales: -, '#"},"promocode":{"exist":"Código de promoción no válida.","able":"No se puede aplicar código de promoción para el usuario","promocodeCharacter":"Código de promoción no válida."},"hasChildGroups":"No se puede eliminar este grupo, ya que ha anidado grupos).","zipCode":{"zipCodeFormat":"Sólo letras, números, \"-\". Ejemplo: 12345-6789"},"answers":{"full":"No ha respondido a todas las preguntas"},"personFirstName":{"alphaSpace":"En caso de ser sólo letras"},"groupDesc":{"specialStringOrient":"No se puede utilizar el símbolo;"},"notExist":"No existe ese usuario","country":{"countryStandart":"País no existe en la lista estándar"},"groupAlias":{"regex":"Sólo letras, números y los símbolos siguientes: - _","readonly":"alias de este grupo no se pueden cambiar","unique":"Grupo alias no es único","uniqueGroupAlias":"Grupo alias no es único"},"personLastName":{"alphaSpace":"En caso de ser sólo letras"},"login":{"incorect":"Usuario o contraseńa incorrecta","login":"Algo salió mal. Por favor, inténtelo de nuevo.","consistencyData":"Algo salió mal","approved":"Revise su correo electrónico para validar su cuenta"},"groupReadonly":"Este grupo no se puede eliminar."},"youAreNotAuthorizedPleaseLogInTwo":"botón. Use su correo electrónico y contraseńa para iniciar sesión en VitaNavis.","sendActivationLink":{"button":"Enviar un nuevo enlace de activación","success":"Mensaje fue enviado con éxito!"},"forbiden":"Prohibido","assessment":{"profile":{"max150Letter":"Max 150 letras","titleTwo":"Por favor, cuéntanos un poco sobre ti","birthDateIsRequired":"Se requiere la fecha de nacimiento","firstName":"Su nombre","title":"Primero,","genderIsRequired":"Se requiere Género","gender":"Género","birthDate":"Fecha de nacimiento","female":"Hembra","ethnicityIsRequired":"Se requiere el origen étnico","shouldBeOnlyLetters":"En caso de ser sólo letras","max150Letters":"Max 150 letras","firstNameRequired":"Se requiere el primer nombre","lastNameIsRequired":"Se requiere el apellido","male":"Masculino","yourLastName":"Tu apellido","birthDateSholdBe":"En caso de ser 00/00/00","selectYourEthnicity":"Seleccione su raza"},"questions":{"somethingWasMissed":"Ups! Se ha perdido una pregunta. Por favor, conteste todas las preguntas."}},"auth":{"recovery":{"linkNotExist":"Este enlace no es válido. Si considera que este es un error, por favor, siga el procedimiento de recuperación de la contraseńa de nuevo y utilizar la última de correo electrónico para completar el proceso."}},"adviserRecord":{"groupProgramsNotExists":"Los datos del programa actualmente no disponibles","programMatches":"programa de Partidos","noProgramMatches":"Ningún programa coincide","userAssessmentNotExists":"El usuario no ha tomado o compartido evaluación aplicable"},"logout":"Cerrar sesión","passwordProblem":{"invalidEmailAdress":"La dirección de email no es válida","titleTwo":"żQuieres que tu <strong> Contraseńa </ strong> correo electrónico a usted?","title":"Contraseńa","submit":"Enviar","emailPlaceholder":"Email","returnTo":"Volver a","returnToLogin":"Iniciar sesión","emailIsRequired":"correo electronico es requerido"},"frontEndValidationErrors":{"xlsFileRequirement":"Tamańo del archivo debe ser inferior a 2 MB y guardado como 'xls', '.xlsx ',' csv '","invalidEmailAdress":"La dirección de email no es válida","imageFileRequirement":"Tamańo del archivo debe ser inferior a 2 MB y guardado como 'jpg', 'png', 'gif', 'jpeg', 'bmp', 'png ',' icono ',' webp ',' wbmp ',' tif ' 'tiff', 'SVG ',' ico '","youHaveUsedPromocodeLimit":"Ha utilizado su límite promocode","toLongMaximumLength":"Demasiado largo. La longitud máxima permitida es {{longitud}} caracteres.","photosCouldntUploaded":"Su imagen no se pudo cargar. Tamańo del archivo debe ser inferior a 2 MB y guardado como imagen.","toShortMinimumLength":"Demasiado corto. La longitud mínima permitida es {{longitud}} caracteres.","messageSubjectIsRequired":"Se requiere sujetos","shouldBeOnlyLetters":"En caso de ser sólo letras","xlsCouldntUploaded":"Su archivo no se pudo cargar. Tamańo del archivo debe ser inferior a 2 MB y guardado como 'xls', 'xlsx' o 'csv '.","nameIsRequired":"El nombre es necesario","PASSWORD":{"MINLENGTH":"Demasiado corto. Longitud mínima de la contraseńa debe ser de 8.","REQUIRED":"Se requiere contraseńa.","PATERN":"La contraseńa debe contener al menos una letra minúscula, una letra mayúscula, un dígito y un carácter especial (! @ # $% ^ & * S).","MAXLENGTH":"Demasiado largo. Longitud máxima de la contraseńa debe ser de 30."},"emailIsRequired":"correo electronico es requerido","messageBodyIsRequired":"Se requiere Cuerpo del mensaje","invalidPromoCode":"Código de promoción no válida."},"youAreNotAuthorizedPleaseLogInOne":"Por favor, pulse el","assessments":"evaluaciones","somethingHappensWrong":"Algo salió mal. Por favor, inténtelo de nuevo.","login":{"subTitleThree":"<strong> VitaNavis&trade; </strong> es un producto de los laboratorios de innovación CPP. Desde 1956, el CPP ha sido un líder en la personalidad y es conocido por la ciencia y la investigación detrás de sus evaluaciones de personalidad del patrón oro. Buscamos promover la misión de ayudar a la gente a ser mejor de CPP mediante la utilización de tecnología de vanguardia y la ciencia de datos para mejorar el conocimiento y la experiencia que ofrecemos a la gente y sus organizaciones.","subTitleOne":"<P> Bienvenido a <strong> VitaNavis&trade; </strong>, creado por Innovaciones CPP Labs, uno de los mayores expertos mundiales en la ciencia de la personalidad. El significado de <strong> VitaNavis </ strong> es la nave vida <strong> VitaNavis&trade;. </strong> combina validados científicamente y evaluaciones de personalidad fiables con la última ciencia del comportamiento para recomendar las acciones de CPP que se pueden tomar para ayudar a navegar por una camino hacia sus metas educativas y profesionales </ p> <p> el primer paso en el viaje es tomar nuestra versión simplificada del fuerte interés Inventario & registro.;","signUpnBtn":"Regístrate","loginBtn":"Iniciar sesión","title":"Obtenemos un paso más cerca!"},"organizations":"organizaciones","footer":{"text2":"Inc. Todos los derechos reservados. logotipos CPP son marcas comerciales o marcas comerciales registradas de CPP, Inc., en los Estados Unidos y otros países. Haga clic para ver VitaNavis","text":"2016.0","text4":"Salariales y de ocupación datos proporcionados por la Oficina de Estadísticas Laborales, Departamento de Trabajo de EE.UU. al","text3":"y"},"admin":{"groupAliasNotFound":"GroupAlias no se encuentra","userDoesNotExist":"el usuario no existe"},"signUpModal":{"passwordIsNotUnique":"las contraseńas no coinciden","passwordPlaceholder":" Contraseńa","promoCode":"żCódigo promocional?","tooShort":"Demasiado corto. Longitud mínima de la contraseńa es de 8 caracteres","title":"Regístrate","passwordShouldContain":"La contraseńa debe contener al menos una letra minúscula, una letra mayúscula, un dígito y un carácter especial (! @ # $% ^ & *)","passwordIsRequired":"se requiere contraseńa","dontHave":"No tener una","privacyPolicy":"Política de privacidad","termsOfUse":"Términos de Uso","invalidEmailAdress":"La dirección de email no es válida","promoCodePlaceholder":" Código promocional","emailPlaceholder":" Email","emailIsRequired":"correo electronico es requerido"},"getPromoCodeModal":{"invalidEmailAdress":"La dirección de email no es válida","titleTwo":"Por favor, solicitar un código de promoción aquí:","checkYourEmail":"Consultar su correo electrónico","returnToSignUp":"Volver a Registrarse","title":"Código promocional","submit":"Enviar","emailPlaceholder":" Email","messageIsRequired":"Se requiere Mensaje","messagePlaceholder":" Escribe aquí para hacernos saber por qué está interesado en tomar el SuperStrong","emailIsRequired":"correo electronico es requerido"},"thankYou":"Gracias","signInModal":{"passwordPlaceholder":"Contraseńa","invalidEmailAdress":"La dirección de email no es válida","title":"Iniciar sesión","keepMeLoggedIn":"Mantenme conectado.","keepMeLoggedInTooltip":"Para los ordenadores públicos o compartidos, no seleccione esta opción.","passwordProblems":"Problemas con la contraseńa?","submit":"Iniciar sesión","emailPlaceholder":" Email","passwordIsRequired":"se requiere contraseńa","emailIsRequired":"correo electronico es requerido"},"personProfile":{"lastName":"Apellido","firstName":"Nombre de pila","edit":"Editar","gender":"Género","address":"Dirección","dateOfBirth":"Fecha de nacimiento","joinedDate":"fecha de ingreso","female":"Hembra","memberSinse":"Miembro desde","fullName":"Nombre completo","male":"Masculino","email":"Email","ethnicity":"etnicidad"},"uploadErrors":{"enforceMaxFileSizeImage":"Los archivos deben ser menos de 2Mb","enforceFileExtension":"extensión de archivo debe ser xlsx o xls","enforceMaxFileSize":"Los archivos deben ser menos de 10 Mb","enforceFileExtensionImage":"extensión de archivo debe ser JPG, JPEG, GIF, PNG o SVG"},"hello":"Hola","resetPassword":{"success":"Su contraseńa ha sido cambiada"}}
+{
+  "careerPathways": {
+    "noEducationalPathsWereFound": "No se han encontrado vías educativas. Este trabajo puede no requerir la educación después de la secundaria.",
+    "detailsNotAvailable": "Los detalles no disponibles",
+    "relatedEducation": "Educación Relacionada",
+    "theseEducationalPathsCan": "Estos caminos educativos pueden ayudar a prepararse para este trabajo:",
+    "requirements": "Requisitos",
+    "workday": "Día de trabajo",
+    "skills": "Habilidades",
+    "moreInfo": "Más información",
+    "typicallyRequiresKnowledge": "Suele requerir conocimientos en estas áreas:",
+    "levelOfEducation": "Nivel de educación",
+    "onTheJobTraining": "En el entrenamiento del trabajo",
+    "commonTasks": "Tareas comunes",
+    "whatToExpect": "Que esperar",
+    "area": "Zona",
+    "value": "Value",
+    "typicalSkillsRequired": "Habilidades típicas requeridas",
+    "typicalAbillitiesRequired": "Habilidades típicas requeridas",
+    "exploreOnet": "Explorar ONET",
+    "nextStepsForEducation": "Próximos pasos para la educación …",
+    "alternativeJobTitles": "Títulos de trabajo alternativos",
+    "jobOutlook": "Perspectiva del trabajo:",
+    "steady": "Estable",
+    "growth": "Crecimiento",
+    "decline": "Disminución",
+    "green": "Verde",
+    "description": "Descripción",
+    "workActivities": "Actividades de trabajo",
+    "averageSalary": "Salario promedio",
+    "jobSummary": "Resumen de trabajo",
+    "jobDetails": "Detalles del trabajo",
+    "education": "Educación",
+    "careerPathways": "Caminos de la carrera",
+    "careerPathwaysShowsYouJobs": "Career Pathways le muestra trabajos que coinciden con sus intereses.",
+    "youCanReturnAnytimeToExploreCareers": "Puede regresar en cualquier momento para explorar carreras, salarios, perspectivas de trabajo, habilidades, educación y capacitación que necesitará para alcanzar sus metas.",
+    "moreJobOpeningsExpectedInTheFuture": "Más oportunidades de trabajo esperadas en el futuro.",
+    "fewerJobOpeningsExpectedInTheFuture": "Se esperan menos oportunidades de trabajo en el futuro.",
+    "jobsArePartOfTheGreenEconomy": "Los empleos son parte de la Economía Verde.",
+    "careers": "Carreras",
+    "clickHereToExploreScrollDownToViewCareers": "Haga clic aquí para explorar! Desplácese hacia abajo para ver las carreras."
+  },
+  "navbar": {
+    "manageInstitutions": "Manejo de las instituciones",
+    "groupMgmt": "grupo de Gestión",
+    "newUser": "Nuevo usuario",
+    "support": "Apoyo",
+    "importGroups": "Grupos de importación",
+    "noOrganizations": "No hay organizaciones",
+    "searchManage": "Buscar / Administrar",
+    "importUsers": "Importar usuarios",
+    "userMgmt": "Gestión de usuarios",
+    "newGroup": "Nuevo grupo",
+    "noAssessments": "No hay evaluaciones",
+    "supportTooltip": "Apoyo",
+    "insights": "intuición",
+    "assessmentAvailableTooltip": "Completa tu evaluación",
+    "home": "Casa",
+    "learnMoreAbout": "Más información sobre {{companyName}}!",
+    "tools": "Herramientas"
+  },
+  "completeRegistrationImport": {
+    "clickHereTo": "Click aquí para",
+    "youAreRegistered": "Usted está registrado!",
+    "success": "Gracias por confirmar",
+    "setYourPassword": "Establece tu contraseña",
+    "afterSettingPasswordYouCanLogIntoVitaNavis": "Después de establecer una contraseña, puede iniciar sesión en VitaNavis."
+  },
+  "organizationPage": {
+    "groupProgramsNotExists": "Coincidencia no disponible",
+    "programsThatMatchYourInterests": "Los programas que coincidan con sus intereses",
+    "noProgramMatches": "Ningún programa coincide",
+    "userAssessmentNotExists": "Coincidencia no disponible. Por favor, tome evaluación aplicable",
+    "areaOneText": "Texto del área 1. Introduzca la descripción de la empresa aquí",
+    "areaTwoAHeadline": "Área 2A Encabezado",
+    "areaTwoBHeadline": "Área 2B Encabezado",
+    "clickHere": "haga clic aquí"
+  },
+  "weArePreparingTheResults": {
+    "weArePreparing": "Nos un correo electrónico a sus resultados",
+    "activationProblem": "Si usted tiene un problema con la activación intenta un nuevo enlace de activación o ponerse en contacto con nosotros.",
+    "weArePreparingSecondPart": "Haga clic en el enlace del correo electrónico para acceder a ellos.",
+    "logoutText": "Después de ver los resultados se puede cerrar la sesión.",
+    "cantFindTheConfirmationEmail": "¿No encuentra el correo electrónico de confirmación? Compruebe su carpeta SPAM o JUNK."
+  },
+  "result": {
+    "pleaseRateYourCareerInterests": "Por favor calificar tus intereses profesionales!",
+    "whatsYourStyle": "Haga clic para aprender acerca de sus estilos de trabajo. żCómo le gusta trabajar y aprender?",
+    "yourOccupationalThemes": "Temas ocupacionales",
+    "hereAreTopThree": "Su Top 3",
+    "hereIsTopOne": "Aquí es su máxima tema de interés profesional",
+    "pss": {
+      "RiskTaking": "La toma de riesgos",
+      "TeamOrientation": "equipo de Orientación",
+      "LeadershipStyle": "Estilo de liderazgo",
+      "hardcode": {
+        "WorkingStyle": {
+          "mid": "Dependiendo del trabajo, pueden preferir trabajar solo o en grupo. Puede disfrutar de situaciones sociales o ser más reservado.",
+          "high": "Prefiere trabajar con la gente. Disfruta de ayudar a los demás. Extrovertida.",
+          "description_high": "Prefiero trabajar con la gente.",
+          "low": "Prefiere trabajar solo. Disfruta de datos, ideas o cosas. Reservado.",
+          "description_mid": "Balance de trabajar solo y con las personas.",
+          "description_low": "Prefiero trabajar solo."
+        },
+        "TeamOrientation": {
+          "mid": "Dependiendo de la dinámica de trabajo y de equipo, puede preferir a colaborar con otros o trabajar de forma independiente.",
+          "high": "Prefiere trabajar en equipo. Disfruta de colaborar en los objetivos del equipo. Le gusta resolver un problema con los demás.",
+          "description_high": "Prefiero trabajar en equipo.",
+          "low": "Prefiere llevar a cabo tareas de forma independiente. Disfruta de papel como colaborador independiente. Le gusta resolver problemas en oneâ € ™ s propia.",
+          "description_mid": "Disfrutar de una mezcla de trabajo independiente y en equipo.",
+          "description_low": "colaborador independiente."
+        },
+        "LeadershipStyle": {
+          "mid": "Puede ser cómodo motivar a los demás dando ejemplo y hacerse cargo. Dependiendo de la situación, puede preferir que aporta más líder.",
+          "high": "Es cómodo y hacerse cargo de motivar a los demás. Prefiere dirigir a otros para hacer el trabajo solos. Disfruta de iniciar la acción. Expresa opiniones con facilidad.",
+          "description_high": "Hacerse cargo.",
+          "low": "No es cómodo tomando la carga de los demás. Prefiere hacer el trabajo en lugar de dirigir a otros. Puede servir de ejemplo en lugar de dar instrucciones.",
+          "description_mid": "Hacerse cargo y dar el ejemplo.",
+          "description_low": "Predicar con el ejemplo."
+        },
+        "RiskTaking": {
+          "mid": "Evalúa nuevas y originales ideas antes de tomar una decisión. Dispuesto a tomar riesgos calculados con información de apoyo.",
+          "high": "Le gusta la asunción de riesgos. Aprecia ideas nuevas y originales. Disfruta de actividades emocionantes y correr riesgos. Toma decisiones rápidas.",
+          "description_high": "Disfrutar de tomar riesgos.",
+          "low": "No le gusta la asunción de riesgos. Le gusta actividades tranquilas. Prefiere ir a lo seguro. Toma decisiones cuidadosas.",
+          "description_mid": "Cómodo con un poco de riesgo.",
+          "description_low": "No me gusta tomar riesgos."
+        },
+        "LearningEnvironment": {
+          "mid": "Depending on the subject, may prefer listening and reading over learning by doing. Enjoys a balance of theory and practical learning. Motivated to learn by setting goals.",
+          "high": "Prefiere los ambientes académicos. Aprende a través de conferencias y libros. Dispuesto a pasar muchos ańos en la escuela. Busca el conocimiento por sí mismo.",
+          "description_high": "Aprender escuchando y leyendo.",
+          "low": "Prefiere práctica en entornos de aprendizaje. Aprende haciendo. Prefiere formación a corto plazo para alcanzar una meta o habilidad específica.",
+          "description_mid": "Aprender a través de una mezcla de hacer, conferencias y libros.",
+          "description_low": "Aprender haciendo."
+        }
+      },
+      "WorkingStyle": "Estilo de trabajo",
+      "LearningEnvironment": "Ambiente de aprendizaje"
+    },
+    "noResult": "Usted no tiene resultado todavía.",
+    "youCanAccessYourResults": "Seleccionar Caminos a la Carrera de explorar las carreras que te pueden interesar.",
+    "titleHeader": "Su información de {{titleHeader}}",
+    "clickOn": "Haga clic en",
+    "print": "Impresión",
+    "interestCode": "Su código de interés",
+    "resultsSummary": "Resumen de resultados",
+    "rateIt": "¡Puntúalo!",
+    "careerActivities": "Actividades de Carrera:",
+    "careerInterests": "Intereses de carrera",
+    "topCareerInterests": "Principales intereses profesionales",
+    "workStyles": "Estilos de trabajo",
+    "workStyle": "Estilo de trabajo",
+    "poweredBy": "Energizado por:",
+    "Interests": "Intereses de carrera",
+    "Values": "Valores",
+    "yourTopOccupationalThemes": "Sus principales temas ocupacionales",
+    "yourTopSix": "Su Top 6",
+    "finish": "Terminar",
+    "allRightReserved": "© CPP, Inc. Todos los derechos reservados",
+    "yourCareerInterests": "Sus intereses profesionales",
+    "yourPersonalStyle": "Su estilo personal"
+  },
+  "home": {
+    "gotPromoCode": "żTienes un código de promoción?",
+    "wantPromoCode": "żQuieres un código promocional?",
+    "stayTuned": "ˇManténganse al tanto!",
+    "findYourResults": "Encuentra sus resultados bajo el menú desplegable Insights en la parte superior de la página.",
+    "welcomeToHomepage": "Bienvenido a la página de <strong> VitaNavis&trade; </ strong>! Aquí encontrará herramientas y conocimientos para ayudarle a alcanzar sus metas en la vida - personal, educativo y profesional. Vamos a estar en contacto con nuevos recursos para usted! Si usted tiene un comentario para nosotros, envíanos una línea en <a href=\"mailto:feedback@vitanavis.com\"> feedback@vitanavis.com </a>.",
+    "findTheOrganizations": "Busque las organizaciones a las que está vinculado en el menú desplegable Organizaciones en la parte superior de la página.",
+    "messagingComingSoon": "Mensajería próximamente. ¡Manténganse al tanto!",
+    "beforeExploringYourPersonalCareerPathways": "Antes de explorar sus trayectorias personales de la carrera, usted necesitará tomar la valoración estupenda del interés fuerte. Solicite un código promocional arriba.",
+    "alreadySharedAssessemnt": "Ya has compartido {{assessmentName}} Insights con {{groupName}}",
+    "confirmShareAssessmentYes": "¡Sí!",
+    "confirmShareAssessmentNo": "No, gracias.",
+    "confirmRetakeAssessment": "Es posible que los resultados de {{assessmentName}} hayan cambiado. La última vez que tomó {{assessmentName}} en {{recordDate | date : 'mediumDate'}} Sugerimos volver a tomarlo.",
+    "confirmRetakeAssessmentYes": "Sí, retomar!",
+    "userProfile": "Perfil del usuario",
+    "userProfileTooltip": "Edite su perfil",
+    "insights": "Insights",
+    "insightsTooltip": "Aprenda sobre usted",
+    "organizations": "Organizaciones",
+    "organizationsTooltip": "Explore escuelas y empleadores",
+    "careerPathways": "Caminos de la carrera",
+    "careerPathwaysTooltip": "Considere su futuro",
+    "enterPromo": "Ingresar Promo"
+  },
+  "wrongPromoCode": "código promocional incorrecto",
+  "adminPanel": {
+    "reset": "Reiniciar",
+    "modalTextColor": "Modal Color del texto",
+    "group": {
+      "institution": {
+        "headline": "instituciones",
+        "attachLabel": "Adjuntar nueva institución",
+        "noRecords": "No hay instituciones adjuntas.",
+        "detachConfirm": "Separar institución seleccionada?",
+        "programsLink": "Manejo de Programas"
+      }
+    },
+    "institution": {
+      "headline": "instituciones"
+    },
+    "highlightColorTitle": "Establece el color de <h1>, <h2>, <h3>, todos los botones grandes '(por ejemplo Entrar",
+    "buttonTextColorTitle": "Esto ajusta el color del texto en los botones (por ejemplo Entrar Únete botones).",
+    "backgroundImageTitle": "imagen de fondo de atención al cliente está representada en todas las páginas",
+    "footerTextColorTitle": "Esto ajusta el color del texto de pie de página en todas las páginas.",
+    "modalLinksColorTitle": "Este es el color de los enlaces en todas las ventanas modales.",
+    "modalLinksColor": "Modal Enlaces",
+    "previewContents": "contenido de vista previa.",
+    "highlightColor": "color de resaltado",
+    "backgroundImage": "Imagen de fondo",
+    "logoImage": "Logotipo",
+    "footerTextColor": "Color del texto de pie de página",
+    "institutionProgram": {
+      "programs": "programas"
+    },
+    "modalTextColorTitle": "This sets the color of the text on all modal windows.",
+    "buttonTextColor": "Esto ajusta el color del texto en todas las ventanas modales.",
+    "resetToPreviouslySavedVersion": "Restablecer a la versión guardada anteriormente.",
+    "preview": "Avance",
+    "logoImageTitle": "imagen del logo del cliente aparece en todas las páginas"
+  },
+  "contactUs": {
+    "titleTwo": "Por favor, déjanos saber como podemos ayudarte.",
+    "name": "Nombre",
+    "title": "Contáctenos",
+    "weRespondToAll": "Respondemos a todas las peticiones en el orden en que se recibieron durante el horario normal de 9 am-5 pm PT L-V",
+    "send": "Enviar",
+    "cancel": "Cancelar",
+    "thankForFeedback": "Gracias",
+    "pleaseSelectYourIssueType": "< Seleccione su tipo de problema >",
+    "loginRegistration": "Inicio de sesión / Registro",
+    "promoCode": "Código promocional",
+    "assessmentAndResults": "Evaluación y Resultados",
+    "feedbackSuggestions": "Comentarios/Sugerencias",
+    "salesInquiry": "Consulta de ventas",
+    "other": "Otro"
+  },
+  "contactUsButton": "Contact Us",
+  "accoundIsNotApprovedForViewingResult": "ˇGracias! Su <strong> SuperStrong y comerciales; </ strong> resultados están en el camino! Consultar su correo electrónico y haga clic en el enlace para ver los resultados",
+  "gridEditor": {
+    "searchClear": "Claro",
+    "searchPlaceholder": "Palabra clave",
+    "revertChanges": "Revertir cambios",
+    "searchRun": "Buscar",
+    "addNewRecord": "Ańadir nuevo ingreso",
+    "entry": "Entrada",
+    "saveChanges": "Guardar cambios"
+  },
+  "administration": "Administración",
+  "placeholders": {
+    "message": "Mensaje"
+  },
+  "serverErrors": {
+    "0": {
+      "undefined": "Algo salió mal. Por favor, inténtelo de nuevo."
+    },
+    "feedback": {
+      "required": "recordFeedback no se encuentra"
+    },
+    "bundleDesc": {
+      "specialStringOrient": "No se puede establecer símbolo;"
+    },
+    "notAdviser": "Usted no es asesor",
+    "hasAttachedRecords": "No se puede eliminar este grupo porque se ha unido registros.",
+    "personEmail": {
+      "type": "La dirección de email no es válida",
+      "uniqueMail": "el correo electronico ya ha sido tomado",
+      "unique": "el correo electronico ya ha sido tomado",
+      "exist": "el usuario no existe",
+      "email": "La dirección de email no es válida",
+      "maxLength": "La longitud máxima permitida del correo electrónico es de 60 caracteres"
+    },
+    "personType": {
+      "uniquePersonType": "El usuario ya tiene esta función en el grupo actual",
+      "in": "Tipo no es correcta"
+    },
+    "regex": {
+      "regex": "Sólo letras, números y símbolos de estas: -, '"
+    },
+    "city": {
+      "regex": "Sólo letras, números y símbolos de estas: -, '"
+    },
+    "bundleName": {
+      "specialStringOrient": "No se puede establecer símbolo;"
+    },
+    "administration": {
+      "notAdvisor": "Usted no es asesor"
+    },
+    "groupName": {
+      "uniqueGroupName": "Nombre del grupo no es único",
+      "specialStringOrient": "No se puede utilizar el símbolo;",
+      "unique": "Nombre del grupo no es único",
+      "readonly": "El nombre de este grupo no se puede cambiar."
+    },
+    "state": {
+      "regex": "Sólo letras, números y símbolos de estas: -, '"
+    },
+    "bundleCode": {
+      "uniqueBundleCode": "Código haz debe ser único",
+      "exist": "código Bundle ya existe"
+    },
+    "personPassword": {
+      "personPassswordOld": "La contraseńa no es correcta"
+    },
+    "parentGroupId": {
+      "validParentGroupId": "No puede ser el padre",
+      "required": "Se requiere el grupo de padres",
+      "string": "Debe ser sólo letras",
+      "regex": "ID de grupo padre incorrecto"
+    },
+    "import": {
+      "emptyData": "Archivo está vacío o tiene filas vacías. Por favor, compruebe su archivo",
+      "validation": "Los errores de validación:",
+      "string": "Algo salió mal. Por favor, inténtelo de nuevo.",
+      "emailCustom": "La dirección de email no es válida",
+      "required": "Se requiere campo",
+      "transform": "Los datos en el archivo tiene un formato incorrecto",
+      "readFile": "Hoja de recuento no es igual a 1",
+      "groupName": {
+        "unique": "nombre_de_grupo no es único"
+      },
+      "personEmail": "Email:",
+      "in": "Tipo no es correcta",
+      "unique": "el correo electronico ya ha sido tomado",
+      "email": "La dirección de email no es válida"
+    },
+    "assessment": {
+      "available": "La evaluación no está disponible",
+      "answer": "Las respuestas no se establecen"
+    },
+    "email": {
+      "email": "La dirección de email no es válida"
+    },
+    "groupType": {
+      "in": "Tipo no es correcta"
+    },
+    "hash": {
+      "exist": "enlace de recuperación no es real"
+    },
+    "hasRelatedBundles": "No se puede eliminar este grupo porque tiene paquete (s).",
+    "street1": {
+      "regex": "Sólo letras, números y símbolos de estas: -,",
+      "streetType": " Contiene letra, número, símbolos - lo que permitió por la norma"
+    },
+    "street2": {
+      "regex": "Sólo letras, números, símbolos especiales: -,",
+      "streetType": "Debe contener letras, números y símbolos especiales: -, '#"
+    },
+    "promocode": {
+      "exist": "Código de promoción no válida.",
+      "able": "No se puede aplicar código de promoción para el usuario",
+      "promocodeCharacter": "Código de promoción no válida."
+    },
+    "hasChildGroups": "No se puede eliminar este grupo, ya que ha anidado grupos).",
+    "zipCode": {
+      "zipCodeFormat": "Sólo letras, números, \"-\". Ejemplo: 12345-6789"
+    },
+    "answers": {
+      "full": "No ha respondido a todas las preguntas"
+    },
+    "personFirstName": {
+      "alphaSpace": "En caso de ser sólo letras"
+    },
+    "groupDesc": {
+      "specialStringOrient": "No se puede utilizar el símbolo;"
+    },
+    "notExist": "No existe ese usuario",
+    "country": {
+      "countryStandart": "País no existe en la lista estándar"
+    },
+    "groupAlias": {
+      "regex": "Sólo letras, números y los símbolos siguientes: - _",
+      "readonly": "alias de este grupo no se pueden cambiar",
+      "unique": "Grupo alias no es único",
+      "uniqueGroupAlias": "Grupo alias no es único"
+    },
+    "personLastName": {
+      "alphaSpace": "En caso de ser sólo letras"
+    },
+    "login": {
+      "incorect": "Usuario o contraseńa incorrecta",
+      "login": "Algo salió mal. Por favor, inténtelo de nuevo.",
+      "consistencyData": "Algo salió mal",
+      "approved": "Revise su correo electrónico para validar su cuenta"
+    },
+    "groupReadonly": "Este grupo no se puede eliminar.",
+    "deleteGroupReadonly": "No se puede eliminar este grupo."
+  },
+  "youAreNotAuthorizedPleaseLogInTwo": "botón. Use su correo electrónico y contraseńa para iniciar sesión en VitaNavis.",
+  "sendActivationLink": {
+    "button": "Enviar un nuevo enlace de activación",
+    "success": "Mensaje fue enviado con éxito!"
+  },
+  "forbiden": "Prohibido",
+  "assessment": {
+    "profile": {
+      "max150Letter": "Max 150 letras",
+      "titleTwo": "Por favor, cuéntanos un poco sobre ti",
+      "birthDateIsRequired": "Se requiere la fecha de nacimiento",
+      "firstName": "Su nombre",
+      "title": "Primero,",
+      "genderIsRequired": "Se requiere Género",
+      "gender": "Género",
+      "birthDate": "Fecha de nacimiento",
+      "female": "Hembra",
+      "ethnicityIsRequired": "Se requiere el origen étnico",
+      "shouldBeOnlyLetters": "En caso de ser sólo letras",
+      "max150Letters": "Max 150 letras",
+      "firstNameRequired": "Se requiere el primer nombre",
+      "lastNameIsRequired": "Se requiere el apellido",
+      "male": "Masculino",
+      "yourLastName": "Tu apellido",
+      "birthDateSholdBe": "En caso de ser 00/00/00",
+      "selectYourEthnicity": "Seleccione su raza"
+    },
+    "questions": {
+      "somethingWasMissed": "Ups! Se ha perdido una pregunta. Por favor, conteste todas las preguntas."
+    },
+    "instructions": "Instrucciones…",
+    "next": "Siguiente",
+    "back": "Espalda",
+    "submit": "Enviar"
+  },
+  "auth": {
+    "recovery": {
+      "linkNotExist": "Este enlace no es válido. Si considera que este es un error, por favor, siga el procedimiento de recuperación de la contraseńa de nuevo y utilizar la última de correo electrónico para completar el proceso."
+    }
+  },
+  "adviserRecord": {
+    "groupProgramsNotExists": "Los datos del programa actualmente no disponibles",
+    "programMatches": "programa de Partidos",
+    "noProgramMatches": "Ningún programa coincide",
+    "userAssessmentNotExists": "El usuario no ha tomado o compartido evaluación aplicable"
+  },
+  "logout": "Cerrar sesión",
+  "passwordProblem": {
+    "invalidEmailAdress": "La dirección de email no es válida",
+    "titleTwo": "żQuieres que tu <strong> Contraseńa </ strong> correo electrónico a usted?",
+    "title": "Contraseńa",
+    "submit": "Enviar",
+    "emailPlaceholder": "Email",
+    "returnTo": "Volver a",
+    "returnToLogin": "Iniciar sesión",
+    "emailIsRequired": "correo electronico es requerido"
+  },
+  "frontEndValidationErrors": {
+    "xlsFileRequirement": "Tamańo del archivo debe ser inferior a 2 MB y guardado como 'xls', '.xlsx ',' csv '",
+    "invalidEmailAdress": "La dirección de email no es válida",
+    "imageFileRequirement": "Tamańo del archivo debe ser inferior a 2 MB y guardado como 'jpg', 'png', 'gif', 'jpeg', 'bmp', 'png ',' icono ',' webp ',' wbmp ',' tif ' 'tiff', 'SVG ',' ico '",
+    "youHaveUsedPromocodeLimit": "Ha utilizado su límite promocode",
+    "toLongMaximumLength": "Demasiado largo. La longitud máxima permitida es {{longitud}} caracteres.",
+    "photosCouldntUploaded": "Su imagen no se pudo cargar. Tamańo del archivo debe ser inferior a 2 MB y guardado como imagen.",
+    "toShortMinimumLength": "Demasiado corto. La longitud mínima permitida es {{longitud}} caracteres.",
+    "messageSubjectIsRequired": "Se requiere sujetos",
+    "shouldBeOnlyLetters": "En caso de ser sólo letras",
+    "xlsCouldntUploaded": "Su archivo no se pudo cargar. Tamańo del archivo debe ser inferior a 2 MB y guardado como 'xls', 'xlsx' o 'csv '.",
+    "nameIsRequired": "El nombre es necesario",
+    "PASSWORD": {
+      "MINLENGTH": "Demasiado corto. Longitud mínima de la contraseńa debe ser de 8.",
+      "REQUIRED": "Se requiere contraseńa.",
+      "PATERN": "La contraseńa debe contener al menos una letra minúscula, una letra mayúscula, un dígito y un carácter especial (! @ # $% ^ & * S).",
+      "MAXLENGTH": "Demasiado largo. Longitud máxima de la contraseńa debe ser de 30.",
+      "UNIQUE": "Las contraseñas no coinciden."
+    },
+    "emailIsRequired": "correo electronico es requerido",
+    "messageBodyIsRequired": "Se requiere Cuerpo del mensaje",
+    "invalidPromoCode": "Código de promoción no válida.",
+    "birthdayIsRequired": "Se requiere cumpleaños.",
+    "emailIsNotUnique": "Las direcciones de correo no coinciden.",
+    "onlyLettersNumbersAndPunctuationMarks": "Sólo letras, números y signos de puntuación.",
+    "streetOneIsRequired": "Se requiere la calle 1.",
+    "onlyLettersNumbersAndSymbols": "Sólo letras, números, \"-\", \",\", \"#\".",
+    "streetTwoIsRequired": "Se requiere la calle 2.",
+    "cityRequired": "Se requiere ciudad.",
+    "onlyLettersNumbersAndSymbolsTwo": "Sólo letras, números, \"-\" y \",\".",
+    "addressIsRequired": "La dirección es necesaria.",
+    "zipCodeIsRequired": "Se requiere código postal.",
+    "onlyLettersNumbersAndSymbolsZipCode": "Sólo letras, números, \"-\". Ejemplo: 12345-6789.",
+    "countryIsRequired": "Se requiere país.",
+    "genderIsRequired": "Se requiere género.",
+    "numeric": "Debe ser sólo números"
+  },
+  "youAreNotAuthorizedPleaseLogInOne": "Por favor, pulse el",
+  "assessments": "evaluaciones",
+  "somethingHappensWrong": "Algo salió mal. Por favor, inténtelo de nuevo.",
+  "login": {
+    "subTitleThree": "<strong> VitaNavis&trade; </strong> es un producto de los laboratorios de innovación CPP. Desde 1956, el CPP ha sido un líder en la personalidad y es conocido por la ciencia y la investigación detrás de sus evaluaciones de personalidad del patrón oro. Buscamos promover la misión de ayudar a la gente a ser mejor de CPP mediante la utilización de tecnología de vanguardia y la ciencia de datos para mejorar el conocimiento y la experiencia que ofrecemos a la gente y sus organizaciones.",
+    "subTitleOne": "<P> Bienvenido a <strong> VitaNavis&trade; </strong>, creado por Innovaciones CPP Labs, uno de los mayores expertos mundiales en la ciencia de la personalidad. El significado de <strong> VitaNavis </ strong> es la nave vida <strong> VitaNavis&trade;. </strong> combina validados científicamente y evaluaciones de personalidad fiables con la última ciencia del comportamiento para recomendar las acciones de CPP que se pueden tomar para ayudar a navegar por una camino hacia sus metas educativas y profesionales </ p> <p> el primer paso en el viaje es tomar nuestra versión simplificada del fuerte interés Inventario & registro.;",
+    "signUpnBtn": "Regístrate",
+    "loginBtn": "Iniciar sesión",
+    "title": "Obtenemos un paso más cerca!",
+    "vitaNavisTrade": "VitaNavis&trade;",
+    "usesThe": "utiliza el",
+    "superStrongTrade": "SuperStrong&trade;",
+    "cpp": "CPP",
+    "interestAssessmentToFind": "Evaluación de interés para encontrar itinerarios educativos y de carrera para usted. Para cada vía, vinculamos sus intereses a carreras, salarios, perspectivas de trabajo, habilidades y la educación que necesitará para alcanzar sus metas. En los próximos 5-10 minutos puede estar planeando los próximos pasos en su vida. ¿Estás listo para comenzar tu viaje?",
+    "viewThe": "Ver el",
+    "videoAndSignUpNow": "Video e inscríbase ahora!",
+    "promoCodeAccepted": "Código promocional aceptado",
+    "pleaseLogInOrSignUp": "&#10;Inicie sesión si ya tiene una cuenta o Regístrese para crear una cuenta."
+  },
+  "organizations": "organizaciones",
+  "footer": {
+    "text2": "Inc. Todos los derechos reservados. logotipos CPP son marcas comerciales o marcas comerciales registradas de CPP, Inc., en los Estados Unidos y otros países. Haga clic para ver VitaNavis",
+    "text": "2016.0",
+    "text4": "Salariales y de ocupación datos proporcionados por la Oficina de Estadísticas Laborales, Departamento de Trabajo de EE.UU. al",
+    "text3": "y"
+  },
+  "admin": {
+    "groupAliasNotFound": "GroupAlias no se encuentra",
+    "userDoesNotExist": "el usuario no existe"
+  },
+  "signUpModal": {
+    "passwordIsNotUnique": "las contraseńas no coinciden",
+    "passwordPlaceholder": " Contraseńa",
+    "promoCode": "żCódigo promocional?",
+    "tooShort": "Demasiado corto. Longitud mínima de la contraseńa es de 8 caracteres",
+    "title": "Regístrate",
+    "passwordShouldContain": "La contraseńa debe contener al menos una letra minúscula, una letra mayúscula, un dígito y un carácter especial (! @ # $% ^ & *)",
+    "passwordIsRequired": "se requiere contraseńa",
+    "dontHave": "No tener una",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfUse": "Términos de Uso",
+    "invalidEmailAdress": "La dirección de email no es válida",
+    "promoCodePlaceholder": " Código promocional",
+    "emailPlaceholder": " Email",
+    "emailIsRequired": "correo electronico es requerido",
+    "passwordPlaceholderTwo": " Verificar contraseña",
+    "emailPlaceholderTwo": " Verificar correo electrónico",
+    "providingYourBirthdateAndGenderTooltip": "Proporcionar su fecha de nacimiento y el género ayuda a asegurarse de obtener la mejor experiencia VitaNavis. Para obtener más detalles, visite nuestra Política de privacidad y los Términos de uso.",
+    "byClickingTheSignUp": "Al hacer clic en el botón Registrarse, acepta la opción VitaNavis",
+    "and": "y"
+  },
+  "getPromoCodeModal": {
+    "invalidEmailAdress": "La dirección de email no es válida",
+    "titleTwo": "Por favor, solicitar un código de promoción aquí:",
+    "checkYourEmail": "Consultar su correo electrónico",
+    "returnToSignUp": "Volver a Registrarse",
+    "title": "Código promocional",
+    "submit": "Enviar",
+    "emailPlaceholder": " Email",
+    "messageIsRequired": "Se requiere Mensaje",
+    "messagePlaceholder": " Escribe aquí para hacernos saber por qué está interesado en tomar el SuperStrong",
+    "emailIsRequired": "correo electronico es requerido"
+  },
+  "thankYou": "Gracias",
+  "signInModal": {
+    "passwordPlaceholder": "Contraseńa",
+    "invalidEmailAdress": "La dirección de email no es válida",
+    "title": "Iniciar sesión",
+    "keepMeLoggedIn": "Mantenme conectado.",
+    "keepMeLoggedInTooltip": "Para los ordenadores públicos o compartidos, no seleccione esta opción.",
+    "passwordProblems": "Problemas con la contraseńa?",
+    "submit": "Iniciar sesión",
+    "emailPlaceholder": " Email",
+    "passwordIsRequired": "se requiere contraseńa",
+    "emailIsRequired": "correo electronico es requerido"
+  },
+  "personProfile": {
+    "lastName": "Apellido",
+    "firstName": "Nombre de pila",
+    "edit": "Editar",
+    "gender": "Género",
+    "address": "Dirección",
+    "dateOfBirth": "Fecha de nacimiento",
+    "joinedDate": "fecha de ingreso",
+    "female": "Hembra",
+    "memberSinse": "Miembro desde",
+    "fullName": "Nombre completo",
+    "male": "Masculino",
+    "email": "Email",
+    "ethnicity": "etnicidad",
+    "preferNotToAnswer": "Prefiero no responder",
+    "oldPassword": "Contraseña anterior",
+    "personPhoneCountry": "Código del país del teléfono",
+    "personPhoneNumber": "Número de teléfono",
+    "phone": "Teléfono",
+    "password": "Contraseña",
+    "changePassword": "Cambia la contraseña",
+    "currentPassword": "Contraseña actual",
+    "hide": "Esconder",
+    "newPassword": "Nueva contraseña",
+    "repeatNewPassword": "Repita la nueva contraseña",
+    "changeEmail": "Cambiar e-mail",
+    "currentEmail": "Email actual",
+    "newEmail": "Nuevo Email",
+    "repeatNewEmail": "Repetir nuevo correo electrónico",
+    "insights": "Insights",
+    "organizations": "Organizaciones",
+    "incomplete": "Incompleto",
+    "selectCountry": "Seleccione un país",
+    "pwdToolTip": "Introduzca su contraseña para confirmar los cambios."
+  },
+  "uploadErrors": {
+    "enforceMaxFileSizeImage": "Los archivos deben ser menos de 2Mb",
+    "enforceFileExtension": "extensión de archivo debe ser xlsx o xls",
+    "enforceMaxFileSize": "Los archivos deben ser menos de 10 Mb",
+    "enforceFileExtensionImage": "extensión de archivo debe ser JPG, JPEG, GIF, PNG o SVG"
+  },
+  "hello": "Hola",
+  "resetPassword": {
+    "success": "Su contraseńa ha sido cambiada",
+    "resetPassword": "Restablecer la contraseña"
+  },
+  "bundles": "Manojos",
+  "selectCountry": "< Seleccione un país >",
+  "program": "Programa",
+  "exampleOccupation": "Ejemplo de ocupación",
+  "you": "Tú",
+  "streetOne": "Calle 1",
+  "streetTwo": "Calle 2",
+  "city": "Ciudad",
+  "state": "Estado",
+  "zipCode": "Código postal",
+  "country": "País",
+  "confirm": "Confirmar",
+  "hide": "Esconder",
+  "reset": "Reiniciar",
+  "date": "Fecha",
+  "yourEmailHasBeenConfirmed": "Tu correo ha sido confirmado.",
+  "save": "Salvar",
+  "cancel": "Cancelar",
+  "birthday": "Cumpleaños",
+  "gender": "Género",
+  "month": "Mes",
+  "day": "Día",
+  "year": "Año",
+  "dislike": "Disgusto",
+  "unsure": "Inseguro",
+  "like": "Me gusta",
+  "chooseCompany": "< Elegir empresa >",
+  "password": " Contraseña",
+  "incomplete": "Incompleto",
+  "selectAnOption": "< Seleccione una opción >",
+  "groupNotFound": "Grupo no encontrado",
+  "teamGroupDontHaveStyles": "Los grupos de equipos no tienen estilos de marca.",
+  "pageNotFound": "Página no encontrada",
+  "didntAnswerPreviousQuestions": "Usted no ha respondido a las preguntas anteriores. Por favor responda a todas las preguntas anteriores.",
+  "companyDoesntExist": "La empresa {{companyName}} no existe"
+}

@@ -9,14 +9,14 @@ const workSheetsFromFile = xlsx.parse('file.xlsx');
 workSheetsFromFile[0].data.forEach( el => {
 	if (el[2]){
 		var key = el[0].split('$').join('.');
-		eval('esMX.' + key + '="' + el[2] + '"');
+		eval('esMX.' + key + '=' + JSON.stringify(el[2]) + '');
 	}
 });
 
 
 
 
-fs.writeFile('new-es-MX.json', JSON.stringify(esMX), function (err) {
+fs.writeFile('new-es-MX.json', JSON.stringify(esMX, null, 2), function (err) {
 	if (err) {
 		throw 'error opening file: ' + err;
 	}
