@@ -1,7 +1,7 @@
 {
   "serverErrors": {
     "0": {
-      "undefined": "Something went wrong. Please try again."
+      "undefined": "Algo salió mal. Vuelve a intentarlo."
     },
     "appVersionOutdated": "Tu página está desactualizada. La página se actualizará automáticamente después de unos segundos.",
     "login": {
@@ -11,12 +11,11 @@
       "login": "Algo salió mal. Por favor, inténtelo de nuevo."
     },
     "personEmail": {
+      "required": "Este correo electronico ya esta en uso.",
       "exist": "el usuario no existe",
-      "uniqueMail": "el correo electronico ya ha sido tomado",
-      "unique": "el correo electronico ya ha sido tomado",
-      "type": "La dirección de email no es válida",
+      "isEmailUnique": "el correo electronico ya ha sido tomado",
       "maxLength": "La longitud máxima permitida del correo electrónico es de 60 caracteres",
-      "email": "La dirección de email no es válida"
+      "emailCustom": "La dirección de email no es válida"
     },
     "promocode": {
       "able": "No se puede aplicar código de promoción para el usuario",
@@ -38,12 +37,6 @@
     },
     "email": {
       "email": "La dirección de email no es válida"
-    },
-    "personFirstName": {
-      "alphaSpace": "En caso de ser sólo letras"
-    },
-    "personLastName": {
-      "alphaSpace": "En caso de ser sólo letras"
     },
     "import": {
       "emptyData": "Archivo está vacío o tiene filas vacías. Por favor, compruebe su archivo",
@@ -164,6 +157,13 @@
     },
     "demographicIndustry": {
       "string": "Datos inválidos"
+    },
+    "personUsername": {
+      "required": "Este nombre de usuario ya se ha tomado.",
+      "isCurrentUserName": "El nombre de usuario actual no coincide con el existente.",
+      "isUsernameUnique": "Este nombre de usuario ya se ha tomado.",
+      "minLength": "Demasiado corto. La longitud mínima del nombre de usuario debe ser 6.",
+      "maxLength": "Demasiado largo. La longitud máxima del nombre de usuario debe ser 50."
     }
   },
   "uploadErrors": {
@@ -197,7 +197,7 @@
   "signUpModal": {
     "title": "Regístrate",
     "dontHave": "No tener una",
-    "promoCode": "żCódigo promocional?",
+    "promoCode": "¿Código promocional?",
     "emailIsRequired": "correo electronico es requerido",
     "invalidEmailAdress": "La dirección de email no es válida",
     "privacyPolicy": "Política de privacidad",
@@ -237,11 +237,14 @@
     "title": "Iniciar sesión",
     "passwordProblems": "Problemas con la contraseńa?",
     "emailPlaceholder": " Email",
+    "emailOrUsernamePlaceholder": "Correo electrónico \\ Nombre de usuario",
+    "emailAndUsernamePlaceholder": "Correo electrónico o nombre de usuario",
+    "passwordPlaceholder": " Contraseña",
     "keepMeLoggedIn": "Mantenme conectado.",
     "keepMeLoggedInTooltip": "Para los ordenadores públicos o compartidos, no seleccione esta opción."
   },
   "passwordProblem": {
-    "titleTwo": "żQuieres que tu <strong> Contraseńa </ strong> correo electrónico a usted?",
+    "titleTwo": "¿Quieres que tu <strong> Contraseńa </ strong> correo electrónico a usted?",
     "emailIsRequired": "correo electronico es requerido",
     "invalidEmailAdress": "La dirección de email no es válida",
     "returnToLogin": "Iniciar sesión",
@@ -267,8 +270,8 @@
   "home": {
     "welcomeToHomepage": "Bienvenido a la página de <strong> VitaNavis&trade; </ strong>! Aquí encontrará herramientas y conocimientos para ayudarle a alcanzar sus metas en la vida - personal, educativo y profesional. Vamos a estar en contacto con nuevos recursos para usted! Si usted tiene un comentario para nosotros, envíanos una línea en <a href=\"mailto:feedback@vitanavis.com\"> feedback@vitanavis.com </a>.",
     "stayTuned": "ˇManténganse al tanto!",
-    "gotPromoCode": "żTienes un código de promoción?",
-    "wantPromoCode": "żQuieres un código promocional?",
+    "gotPromoCode": "¿Tienes un código de promoción?",
+    "wantPromoCode": "¿Quieres un código promocional?",
     "findYourResults": "Encuentra sus resultados bajo el menú desplegable Insights en la parte superior de la página.",
     "findTheOrganizations": "Busque las organizaciones a las que está vinculado en el menú desplegable Organizaciones en la parte superior de la página.",
     "messagingComingSoon": "Mensajería próximamente. ¡Manténganse al tanto!",
@@ -316,17 +319,31 @@
   "reset": "Reiniciar",
   "date": "Fecha",
   "yourEmailHasBeenConfirmed": "Tu correo ha sido confirmado.",
+  "continue": "Continuar",
   "accoundIsNotApprovedForViewingResult": "ˇGracias! Su <strong> SuperStrong y comerciales; </ strong> resultados están en el camino! Consultar su correo electrónico y haga clic en el enlace para ver los resultados",
+  "promoCode": "Código promocional",
+  "userName": "Nombre de usuario",
+  "userNamePlaceholder": " Nombre de usuario",
+  "next": "Siguiente",
+  "reviewAndconfirm": "Revise la información sobre usted y confirme",
+  "launchpad": "Plataforma de lanzamiento",
   "assessment": {
     "profile": {
       "title": "Primero,",
       "titleTwo": "Por favor, cuéntanos un poco sobre ti",
       "firstName": "Su nombre",
       "firstNameRequired": "Se requiere el primer nombre",
-      "shouldBeOnlyLetters": "En caso de ser sólo letras",
-      "max150Letter": "Max 150 letras",
       "yourLastName": "Tu apellido",
       "lastNameIsRequired": "Se requiere el apellido",
+      "selectYourEthnicity": "Seleccione su raza",
+      "ethnicityIsRequired": "Se requiere origen étnico",
+      "birthDate": "Fecha de nacimiento",
+      "birthDateIsRequired": "La fecha de nacimiento es obligatoria",
+      "birthDateSholdBe": "Debe ser 00/00/00",
+      "gender": "Género",
+      "female": "Hembra",
+      "male": "Masculino",
+      "genderIsRequired": "Se requiere género",
       "max150Letters": "Max 150 letras"
     },
     "questions": {
@@ -346,7 +363,8 @@
     "weArePreparingSecondPart": "Haga clic en el enlace del correo electrónico para acceder a ellos.",
     "cantFindTheConfirmationEmail": "¿No encuentra el correo electrónico de confirmación? Compruebe su carpeta SPAM o JUNK.",
     "activationProblem": "Si usted tiene un problema con la activación intenta un nuevo enlace de activación o ponerse en contacto con nosotros.",
-    "logoutText": "Después de ver los resultados se puede cerrar la sesión."
+    "logoutText": "Después de ver los resultados se puede cerrar la sesión.",
+    "toRegainFullAccess": "Para recuperar el acceso completo al sitio de VitaNavis debes estar de acuerdo con el VitaNavis"
   },
   "result": {
     "titleHeader": "Su información de {{titleHeader}}",
@@ -376,8 +394,8 @@
     "workStyle": "Estilo de trabajo",
     "poweredBy": "Energizado por:",
     "Interests": "Intereses de carrera",
-    "Work Activities": "Work Activities",
-    "Potential Skills": "Potential Skills",
+    "Work Activities": "Actividades de trabajo",
+    "Potential Skills": "Habilidades Potenciales",
     "Values": "Valores",
     "yourTopOccupationalThemes": "Sus principales temas ocupacionales",
     "yourTopSix": "Su Top 6",
@@ -418,7 +436,15 @@
     "organizations": "Organizaciones",
     "incomplete": "Incompleto",
     "selectCountry": "Seleccione un país",
-    "pwdToolTip": "Introduzca su contraseña para confirmar los cambios."
+    "pwdToolTip": "Introduzca su contraseña para confirmar los cambios.",
+    "username": "Nombre de usuario",
+    "changeUsername": "Cambie el nombre de usuario",
+    "currentUsername": "Nombre de usuario actual",
+    "newUsername": "Nuevo nombre de usuario",
+    "newUsernamePlaceholder": "Ingrese su nuevo nombre de usuario",
+    "checkAvailability": "Consultar disponibilidad",
+    "check": "Comprobar",
+    "usernameAvailable": "Nombre de usuario disponible"
   },
   "personDemographic": {
     "label": "Perfil extendido",
@@ -472,18 +498,18 @@
   "incomplete": "Incompleto",
   "selectAnOption": "< Seleccione una opción >",
   "months": {
-    "january": "enero",
-    "february": "febrero",
-    "march": "marzo",
-    "april": "abril",
+    "january": "Enero",
+    "february": "Febrero",
+    "march": "Marzo",
+    "april": "Abril",
     "may": "Mayo",
-    "june": "junio",
-    "july": "julio",
-    "august": "agosto",
-    "september": "septiembre",
-    "october": "octubre",
-    "november": "noviembre",
-    "december": "diciembre"
+    "june": "Junio",
+    "july": "Julio",
+    "august": "Agosto",
+    "september": "Septiembre",
+    "october": "Octubre",
+    "november": "Noviembre",
+    "december": "Diciembre"
   },
   "frontEndValidationErrors": {
     "nameIsRequired": "El nombre es necesario",
@@ -499,6 +525,7 @@
     "youHaveUsedPromocodeLimit": "Ha utilizado su límite promocode",
     "toLongMaximumLength": "Demasiado largo. La longitud máxima permitida es {{longitud}} caracteres.",
     "toShortMinimumLength": "Demasiado corto. La longitud mínima permitida es {{longitud}} caracteres.",
+    "personUsernamePatern": "Contiene caracteres invalidos.",
     "PASSWORD": {
       "MINLENGTH": "Demasiado corto. Longitud mínima de la contraseńa debe ser de 8.",
       "MAXLENGTH": "Demasiado largo. Longitud máxima de la contraseńa debe ser de 30.",
@@ -507,6 +534,8 @@
       "UNIQUE": "Las contraseñas no coinciden."
     },
     "invalidPromoCode": "Código de promoción no válida.",
+    "promocodeIsRequired": "Promocode es necesario.",
+    "userNameIsRequired": "Se requiere nombre de usuario",
     "birthdayIsRequired": "Se requiere cumpleaños.",
     "emailIsNotUnique": "Las direcciones de correo no coinciden.",
     "onlyLettersNumbersAndPunctuationMarks": "Sólo letras, números y signos de puntuación.",
@@ -521,6 +550,8 @@
     "countryIsRequired": "Se requiere país.",
     "genderIsRequired": "Se requiere género.",
     "numeric": "Debe ser sólo números",
+    "dataInvalid": "Los datos no son válidos.",
+    "passwordAlreadySet": "Por favor Iniciar sesión",
     "profilePhone": {
       "countryCode": {
         "pattern": "Debe ser sólo números",
@@ -542,7 +573,14 @@
       "REQUIRED": "correo electronico es requerido",
       "PATTERN": "Dirección de correo electrónico no válida",
       "MATCH": "Los correos electrónicos no coinciden"
-    }
+    },
+    "username": {
+      "required": "El nombre de usuario es necesario para confirmar los cambios.",
+      "unique": "Este nombre de usuario ya se ha tomado",
+      "MIN_LENGTH": "Demasiado corto. La longitud mínima del nombre de usuario debe ser 6.",
+      "MAX_LENGTH": "Demasiado largo. La longitud máxima del nombre de usuario debe ser 50."
+    },
+    "shouldBeNotEmptyString": "No debe ser cadena vacía."
   },
   "placeholders": {
     "message": "Mensaje"
@@ -713,5 +751,6 @@
     "of": "de",
     "assessment": "Evaluación",
     "noRecordsFound": "No se encontrarón archivos"
-  }
+  },
+  "language": "Idioma"
 }

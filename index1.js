@@ -27,10 +27,20 @@ const workSheetsFromFile = xlsx.parse('file.xlsx');
 
 workSheetsFromFile[0].data.forEach( el => {
 	if (el[2]){
-		var key = el[0].split('$').join('.');
+		var keysArray = el[0].split('$');
+		console.log(keysArray);
+		for (var i = 0; i < keysArray.length; i++){
+			if (i !== 0){
+				keysArray[i] = '["' + keysArray[i] + '"]';
+			}
+		}
+		//var key = el[0].split('$').join('.');
+		var key = keysArray.join('');
+		console.log('key', key);
 		eval('cloneEnUS.' + key + '=' + JSON.stringify(el[2]) + '');
 	}
 });
+
 
 
 

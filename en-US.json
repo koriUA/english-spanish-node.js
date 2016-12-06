@@ -8,12 +8,11 @@
       "login": "Something went wrong. Please try again."
     },
     "personEmail": {
+      "required": "This email has already been taken.",
       "exist": "User does not exist",
-      "uniqueMail": "Email is already taken",
-      "unique": "Email is already taken",
-      "type": "Not a valid email address",
+      "isEmailUnique": "Email is already taken",
       "maxLength": "Maximum allowed length of email is 60 characters",
-      "email": "Not a valid email address"
+      "emailCustom": "Not a valid email address"
     },
     "promocode": {
       "able": "Cannot apply Promo Code to user",
@@ -35,12 +34,6 @@
     },
     "email": {
       "email": "Not a valid email address"
-    },
-    "personFirstName": {
-      "alphaSpace": "Should be only letters"
-    },
-    "personLastName": {
-      "alphaSpace": "Should be only letters"
     },
     "0": {
       "undefined": "Something went wrong. Please try again."
@@ -164,6 +157,13 @@
     },
     "demographicIndustry": {
       "string": "Invalid data"
+    },
+    "personUsername": {
+      "required": "This username has already been taken.",
+      "isCurrentUserName": "Current username doesn't match with existing.",
+      "isUsernameUnique": "This username has already been taken.",
+      "minLength": "Too short. Minimum username length should be 6.",
+      "maxLength": "Too long. Maximum username length should be 50."
     }
   },
   "uploadErrors": {
@@ -182,7 +182,7 @@
     "usesThe": "uses the",
     "superStrongTrade": "SuperStrong&trade;",
     "cpp": "CPP",
-    "interestAssessmentToFind": "interest assessment to find educational and career pathways for you. For each pathway, we link your interests to careers, salaries, job outlooks, skills, and the education youâ€™ll need to meet your goals. In the next 5-10 minutes you can be planning the next steps in your life. Are you ready to start your journey?",
+    "interestAssessmentToFind": "interest assessment to find educational and career pathways for you. For each pathway, we link your interests to careers, salaries, job outlooks, skills, and the education you’ll need to meet your goals. In the next 5-10 minutes you can be planning the next steps in your life. Are you ready to start your journey?",
     "viewThe": "View the",
     "videoAndSignUpNow": "video and SIGN UP now!",
     "promoCodeAccepted": "Promo Code Accepted",
@@ -223,8 +223,8 @@
     "checkYourEmail": "Check Your Email",
     "emailPlaceholder": " Email"
   },
-  "askCoverModel":{
-    "title":"Choose cover",
+  "askCoverModel": {
+    "title": "Choose cover",
     "pleaseChooseOne": "Please choose one of available cover",
     "choose": "Choose",
     "selectCover": "Select cover"
@@ -237,6 +237,9 @@
     "title": "Log In",
     "passwordProblems": "Password problems?",
     "emailPlaceholder": " Email",
+    "emailOrUsernamePlaceholder": "Email\\Username",
+    "emailAndUsernamePlaceholder": "Email or Username",
+    "passwordPlaceholder": " Password",
     "keepMeLoggedIn": "Keep me logged in.",
     "keepMeLoggedInTooltip": "For public or shared computers, do not select this option."
   },
@@ -316,17 +319,31 @@
   "reset": "Reset",
   "date": "Date",
   "yourEmailHasBeenConfirmed": "Your email has been confirmed.",
+  "continue": "Continue",
   "accoundIsNotApprovedForViewingResult": "Thank you!  Your <strong>SuperStrong&trade;</strong> results are on the way! Check your email and click on the link to view your results",
+  "promoCode": "Promo Code",
+  "userName": "Username",
+  "userNamePlaceholder": " Username",
+  "next": "Next",
+  "reviewAndconfirm": "Review information about you and confirm",  
+  "launchpad": "Launchpad",
   "assessment": {
     "profile": {
       "title": "First,",
       "titleTwo": "Please tell us a little bit about yourself",
       "firstName": " Your First Name",
       "firstNameRequired": "First name is required",
-      "shouldBeOnlyLetters": "Should be only letters",
-      "max150Letter": "Max 150 letters",
       "yourLastName": " Your Last Name",
       "lastNameIsRequired": "Last name is required",
+      "selectYourEthnicity": "Select Your Ethnicity",
+      "ethnicityIsRequired": "Ethnicity is required",
+      "birthDate": "Birth Date",
+      "birthDateIsRequired": "Birth date is required",
+      "birthDateSholdBe": "Should be 00/00/00",
+      "gender": "Gender",
+      "female": "Female",
+      "male": "Male",
+      "genderIsRequired": "Gender is required",
       "max150Letters": "Max 150 Letters"
     },
     "questions": {
@@ -346,13 +363,14 @@
     "weArePreparingSecondPart": "Click on the link in the email. You will receive full access to the VitaNavis site.",
     "cantFindTheConfirmationEmail": "Can't find the confirmation email? Check your SPAM or JUNK folder.",
     "activationProblem": "If you have a problem confirming, please try to send a new confirmation link or contact us.",
-    "logoutText": "After viewing your results you can logout."
+    "logoutText": "After viewing your results you can logout.",
+    "toRegainFullAccess": "To regain full access to the VitaNavis site you need to agree to the VitaNavis"
   },
   "result": {
-    "titleHeader":"Your {{titleHeader}} Insights",
-    "clickOn":"Click on",
-    "print":"Print",
-    "interestCode":"Your Interest Code",
+    "titleHeader": "Your {{titleHeader}} Insights",
+    "clickOn": "Click on",
+    "print": "Print",
+    "interestCode": "Your Interest Code",
     "noResult": "You don't have result yet.",
     "pss": {
       "WorkingStyle": "Work Style",
@@ -382,7 +400,7 @@
     "yourTopOccupationalThemes": "Your Top Occupational Themes",
     "yourTopSix": "Your Top 6",
     "finish": "Finish",
-    "allRightReserved": "Â© CPP, Inc. All rights reserved",
+    "allRightReserved": "© CPP, Inc. All rights reserved",
     "yourCareerInterests": "Your Career Interests",
     "yourPersonalStyle": "Your Personal Style"
   },
@@ -418,7 +436,15 @@
     "organizations": "Organizations",
     "incomplete": "Incomplete",
     "selectCountry": "Select a country",
-    "pwdToolTip": "Please type your password to confirm changes."
+    "pwdToolTip": "Please type your password to confirm changes.",
+    "username": "Username",
+    "changeUsername": "Change Username",
+    "currentUsername": "Current Username",
+    "newUsername": "New Username",
+    "newUsernamePlaceholder": "Enter your new username",
+    "checkAvailability" : "Check Availability",
+    "check": "Check",
+    "usernameAvailable": "Username Available"
   },
   "personDemographic": {
     "label": "Extended Profile",
@@ -499,6 +525,7 @@
     "youHaveUsedPromocodeLimit": "You have used your promocode limit.",
     "toLongMaximumLength": "Too long. Maximum allowed length is {{length}} characters.",
     "toShortMinimumLength": "Too short. Minimum allowed length is {{length}} characters.",
+    "personUsernamePatern": "Contains invalid characters.",
     "PASSWORD": {
       "MINLENGTH": "Too short. Minimum password length should be 8.",
       "MAXLENGTH": "Too long. Maximum password length should be 30.",
@@ -507,6 +534,8 @@
       "UNIQUE": "The passwords do not match."
     },
     "invalidPromoCode": "Invalid Promo Code.",
+    "promocodeIsRequired": "Promocode is required.",
+    "userNameIsRequired": "Username is required",
     "birthdayIsRequired": "Birthday is required.",
     "emailIsNotUnique": "Email addresses do not match.",
     "onlyLettersNumbersAndPunctuationMarks": "Only letters, numbers and punctuation marks.",
@@ -521,6 +550,8 @@
     "countryIsRequired": "Country is required.",
     "genderIsRequired": "Gender is required.",
     "numeric": "Should be only numbers",
+    "dataInvalid": "Data is invalid.",
+    "passwordAlreadySet": "Please Log In",
     "profilePhone": {
       "countryCode": {
         "pattern": "Should be only numbers",
@@ -542,7 +573,14 @@
       "REQUIRED": "Email is required",
       "PATTERN": "Invalid email address",
       "MATCH": "Emails don't match"
-    }
+    },
+    "username": {
+      "required": "Username is required to confirm changes.",
+      "unique": "This username has already been taken",
+      "MIN_LENGTH": "Too short. Minimum username length should be 6.",
+      "MAX_LENGTH": "Too long. Maximum username length should be 50."
+    },
+    "shouldBeNotEmptyString": "Should be not empty string."
   },
   "placeholders": {
     "message": " Message"
@@ -713,5 +751,6 @@
     "of": "of",
     "assessment": "Assessment",
     "noRecordsFound": "No Records Found"
-  }
+  },
+  "language": "Language"
 }
